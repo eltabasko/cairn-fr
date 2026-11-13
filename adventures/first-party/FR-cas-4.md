@@ -16,7 +16,7 @@ Un Module d'Aventure pour Cairn 2e par Yochai Gal
 
 **Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Mise en page par Adam Hensley. Edité par Yossi Krausz. Édition développementale by Derek B.
 
-Traduction Nov. 2026 par Tabasko.
+Traduction entamée Nov. 2026 par Tabasko.
 
 Publié par Cairn Press en Octobre 2026.
 
@@ -26,7 +26,7 @@ Les Textes et mise en page sont sous Licence CC-BY SA 4.0.
 
 ### Ce que tout le monde sait
 
-Il y a plusieurs décennies de cela, Marius Lockwood, l'héritier d'une famille fortunée, revint sur l'exploitation familiale avec sa femme Luciana et sa jeune fille Anna. Moins d'un an plus tard, le domaine sombra dans le silence, et l’on n’eut plus guère de nouvelles de la famille.
+Il y a plusieurs décennies de cela, Marius Lockwood, héritier d'une famille fortunée, revint sur l'exploitation familiale avec sa femme Luciana et sa jeune fille Anna. Moins d'un an plus tard, le domaine sombra dans le silence, et l’on n’eut plus guère de nouvelles de la famille.
 
 Les personnages devraient pouvoir identifier des armoiries familiales bien connues, comme celles des Lockwood. Pendant ce temps, les rumeurs vont bon train au sujet d’une nouvelle maladie transmise par l’eau, qui tue lentement ses victimes en leur remplissant les poumons de mousse.
 
@@ -207,13 +207,13 @@ Un **manoir** en disposition asymétrique à 2 étages une toiture en pente reco
 
 - **Manoir** : Des buissons denses et épineux longent le rez-de-chaussée du bâtiment, dissimulant une petite fenêtre. Au 1er étage, de grandes baies vitrées sont à peine visibles.  
   - Couper le feuillage peut être accompli en 2 tours, mais seulement au prix d’efforts importants et avec les outils appropriés.  
-  - La fenêtre donne sur la [5. Kitchen](https://cairnrpg.com/adventures/first-party/cas-4/#5-kitchen), mais il fait trop sombre pour y voir quelque chose. Elle n'est pas fermée.  
-  - Les baies vitrées donnent sur la [12. Dining Room](https://cairnrpg.com/adventures/first-party/cas-4/#12-dining-room). Les rideaux sont tirés.  
-  - Le [10. Outdoor Theater](https://cairnrpg.com/adventures/first-party/cas-4/#10-outdoor-theater) et le[9. Well](https://cairnrpg.com/adventures/first-party/cas-4/#9-well) sont visibles du côté Ouest.  
-- **Bois** :  Un plante grandissante pénètre le bois, le teintant en vert.  
-  - Toute la surface du manoir est extrèmement glissante et presque impossible à escalader sans les outils et l'habileté appropriés.  
-- **Portes** : Fermées mais pas verrouillées. Mènent au [3b. Vestibule](#3b.-Vestibule).  
-- **Emblème** : Un écusson; le champ est un équipollé d'or et d'azur. Les points d'or sont chargés de losanges rouges, et les points d'azur de croix blanches fichées.  
+  - La fenêtre donne sur la [5. Cuisine](#5-cuisine), mais il fait trop sombre pour y voir quelque chose. Elle n'est pas fermée. 
+  - Les baies vitrées donnent sur la [12. Salle à manger](#12-salle-à-manger). Les rideaux sont tirés.  
+  - Le [10. Théâtre de plein air](#10-theatre-de-plein-air) et le [9. Well](#9-puits) sont visibles du côté Ouest.  
+- **Bois** :  Une plante grimpante pénètre le bois, le teintant en vert.  
+  - Toute la surface du manoir est extrêmement glissante et presque impossible à escalader sans les outils et l'habileté appropriés.  
+- **Portes** : Fermées mais pas verrouillées. Mènent au [3b. Vestibule](#3b-vestibule).  
+- **Emblème** : Un écusson; le champ est un équipollé d'or et d'azur. Les points d'or sont chargés de losanges rouges, et les points d'azur de croix blanches fichées.
   - L'emblème (*encombrant*) n'est pas affecté par la mousse et peut être décroché avec les bons outils. Il vaut 100po auprès du bon acheteur.
 
 #### 3b. Vestibule
@@ -221,7 +221,7 @@ Un **manoir** en disposition asymétrique à 2 étages une toiture en pente reco
 Une petite salle d’attente richement décorée avec un **canapé** poussé contre le mur Ouest. Un unique **miroir** est installé sur le mur Est. Au Nord, un petit couloir mène à une pièce ouverte.
 
 - **Canapé** : Le cuir est craquelé. Une pâle mousse bleutée pousse à travers les trous.  
-  - **Mousse** : Créée par Marius lorsqu'il est allé à la [4. Ballroom](https://cairnrpg.com/adventures/first-party/cas-4/#4-ballroom).  
+  - **Mousse** : Créée par Marius lorsqu'il est allé à la [4. Salle de bal](#4-salle-de-bal).  
 - **Miroir** : Une petite fissure dans le coin altère le verre . La brèche qu’elle crée luit faiblement, mais seulement dans l’obscurité totale.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/entry.webp)
