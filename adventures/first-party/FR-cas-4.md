@@ -446,7 +446,7 @@ Un lit occupe le centre de la pièce, une **forme ** humanoïde enfoncée en son
 ### Cycle d'Exploration de Donjon
 
 - Pendant son tour, un PJ peut se déplacer jusqu’à 40 pieds et effectuer une action. Utiliser son action pour se déplacer davantage permet de rallonger la distance jusqu'à 120 pieds, mais ceci risque un jet d'[Évènements de Donjon](#table-dévènements-de-donjon) (voir ci-dessous). 
-- Un jet d'évènements de donjon se déclenche quand le groupe passe plus d'un tour dans une salle, se déplace n'importe comment, pénètre dans une nouvelle salle ou zone, ou provoque une perturbation.  
+- Un jet d'évènements de donjon se déclenche quand le groupe reste plus d'un tour dans une salle, se déplace n'importe comment, pénètre dans une nouvelle salle ou zone, ou provoque une perturbation.  
 - Les Actions sont toutes les activités non-passives: fouiller, forcer des portes, écouter, désamorcer des pièges, le combat, les lancement de sorts, se repose, etc. Les actions bruyantes ou perceptibles peuvent déclencher une rencontre. Certaines actions prennent plusieurs tours à être complétées.  
 - Fouiller minutieusement un objet ou un lieu prend un tour et permet de découvrir des trésors cachés, des pièges ou des portes dissimulées. Les zones plus vastes ou plus complexes peuvent nécessiter davantage de temps. Commencer par une fouille est une approche plus prudente, mais demande du temps.
 - Se repose un tour restaure les HP, mais nécessite de la lumière et un endroit sûr. Se reposer n'annule pas la Fatigue.
@@ -457,7 +457,7 @@ Un lit occupe le centre de la pièce, une **forme ** humanoïde enfoncée en son
 | :---- | :---- | :---- |
 | **1** | **Rencontres** | Faire un jet avec la [Table des Réactions](#Table-des-Réactions). Possible **hostilité**. |
 | **2** | **Signe** | Un indice, une trace, une piste, un repaire abandonné, une odeur, une victime, etc., sont découverts. |
-| **3** | **Environnement** | Possibilité de faire un jet avec la [Table d'Environnement](#carte-du-manoir-lockwood-&-évènements-de-donjon) |
+| **3** | **Environnement** | Possibilité de faire un jet avec la [Table d'Environnement](#carte-du-manoir-lockwood--évènements-de-donjon) |
 | **4**  | **Perte** | Les torches sont éteintes, un sort en cours s’estompe, etc. Le groupe devra régler ce problème avant de poursuivre. |
 | **5** | **Fatigue** | Le groupe doit se reposer (déclenchant un autre jet avec cette table), ajouter une **Fatigue**, ou manger une ration. |
 | **6** | **Calme** | Le groupe est laissé tranquille (et en sécurité) pour le moment. |
