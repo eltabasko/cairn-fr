@@ -28,7 +28,7 @@ Les personnages devraient pouvoir reconnaître des armoiries familiales bien con
 
 ### Les Corbeaux Blancs
 
-Populaires parmi ceux vivant près de la Forêt, les disiciples du Corbeau Blanc (ou “la Nuée”, comme ils préfèrent se nommer) croient fermement au pouvoir de la Forêt et au maintien en bonne état de ses bois et de sa faune. Ils sont reconnaissables au tatouage d'oiseau blanc porté sur leurs cous, dos ou poignets. Chaque village entretient une Nuée propre à sa communauté, et ses fidèles se méfient des religions organisées dans leur ensemble.
+Populaires parmi ceux vivant près de la Forêt, les disciples du Corbeau Blanc (ou “la Nuée”, comme ils préfèrent se nommer) croient fermement au pouvoir de la Forêt et au maintien en bonne état de ses bois et de sa faune. Ils sont reconnaissables au tatouage d'oiseau blanc porté sur leurs cous, dos ou poignets. Chaque village entretient une Nuée propre à sa communauté, et ses fidèles se méfient des religions organisées dans leur ensemble.
 
 ### La Chambre des Bourgmestres
 
