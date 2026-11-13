@@ -209,7 +209,7 @@ Un **manoir** en disposition asymétrique à 2 étages une toiture en pente reco
   - Couper le feuillage peut être accompli en 2 tours, mais seulement au prix d’efforts importants et avec les outils appropriés.  
   - La fenêtre donne sur la [5. Cuisine](#5-cuisine), mais il fait trop sombre pour y voir quelque chose. Elle n'est pas fermée. 
   - Les baies vitrées donnent sur la [12. Salle à manger](#12-salle-a-manger). Les rideaux sont tirés.  
-  - Le [10. Théâtre de plein air](#10-theatre-de-plein-air) et le [9. Well](#9-puits) sont visibles du côté Ouest.  
+  - Le [10. Théâtre de plein air](#10-théâtre-de-plein-air) et le [9. Well](#9-puits) sont visibles du côté Ouest.  
 - **Bois** :  Une plante grimpante pénètre le bois, le teintant en vert.  
   - Toute la surface du manoir est extrêmement glissante et presque impossible à escalader sans les outils et l'habileté appropriés.  
 - **Portes** : Fermées mais pas verrouillées. Mènent au [3b. Vestibule](#3b-vestibule).  
