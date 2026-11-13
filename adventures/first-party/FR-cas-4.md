@@ -5,15 +5,16 @@ Moss -> lichen bleu?
 
 # L'Aliénation du Manoir Lockwood
 
-L'aventure qui suit est également disponible (VO) :
-- En [livre](https://store.cairnrpg.com/products/cas-4-the-forgetting-of-lockwood-manor)
-- Au format [PDF](https://cairnpress.itch.io/the-forgetting-of-lockwood-manor)
-
 ![CAS-4 Cover](https://cairnrpg.com/adventures/first-party/img/cas-4/CAS-4_cover.webp)
 
 **Cairn Adventures Series 4**
 
 Un module d'aventure pour Cairn 2e par Yochai Gal
+
+L'aventure qui suit est également disponible (VO) :
+- En [livre](https://store.cairnrpg.com/products/cas-4-the-forgetting-of-lockwood-manor)
+- Au format [PDF](https://cairnpress.itch.io/the-forgetting-of-lockwood-manor)
+
 
 **Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Mise en page par Adam Hensley. Édité par Yossi Krausz. Édition développementale par Derek B.
 Traduction entamée Nov. 2026 par Tabasko.
