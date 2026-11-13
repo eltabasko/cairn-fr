@@ -167,7 +167,7 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 
 ## Le Manoir
 
-### Accès
+### Entrée
 
 #### 1. Portail
 
@@ -179,7 +179,7 @@ Un **portail** en fer forgé, chargé de rouille, bloque l'accès. Des **haies**
   - De l'autre côté des grilles, la végétation est suffisamment haute pour masquer la vue depuis le sol.  
 - **Haies** : Hautes de 10 pieds, elles s'étendent sur 100 pieds chacune dans un sens avant de toues les deux partir en direction du Nord.  
   - Si le groupe suit l'une ou autre haie, il finira par se retrouver à nouveau devant le portail. Si le groupe essaie de revenir sur ses pas, le portail réapparaitra presque immédiatement. Ceci est un effet de la malédiction d'Isobel.  
-  - Grimper au sommet des haies permettra de découvrir le manoir au Nord ([3a. Entrée](#3a-entrée)), ainsi qu'un bâtiment brûlé à l'Ouest ([2. Logement des domestiques](#2-logement-des-domestiques)).  
+  - Grimper au sommet des haies permettra de découvrir le manoir au Nord ([3a. Seuil](#3a-seuil)), ainsi qu'un bâtiment brûlé à l'Ouest ([2. Logement des domestiques](#2-logement-des-domestiques)).  
 - **Brume** : Une trainée file à travers le portail au Nord, puis se sépare à l'Ouest.  
   - Un grand verrou rouillé repose près du portail, dissimulé par la brume. Une clé rouge se trouve encore dans la serrure. Si la clé est retirée, elle fond en une flaque devenu inutile (voir Sirop de Clé dans [6. Laboratoire](#6-laboratoire)).
 
@@ -201,7 +201,7 @@ Un petit **bâtiment** en ruines fait de bois ternis et de pierre. Le bout d'un 
 
 ### Rez-de-chaussée
 
-#### 3a. Entrée
+#### 3a. Seuil
 
 Un **manoir** en disposition asymétrique à 2 étages une toiture en pente recouverte de bardeaux en écaille. La façade a l'air d'avoir été construite dans un **bois** verdâtre inhabituel, des marches de pierre recouvertes de mousse mènent à un porche à l'abandon présentant deux larges **portes** rouges. En haut l'**emblème** familial est accroché au linteau.
 
@@ -252,7 +252,7 @@ Des couverts rouillés sont éparpillés sur une table recouverte de mousse. Un 
 - **Mousse** : Vaguement en forme de pas.  
   - Produite par Marius lorsqu'il s'est déplacé depuis la [4. Salle de Bal](#4-salle-de-bal), est passé par la [5. Cuisine](#5-cuisine) pour aller vers le [6. Laboratoire](#6-laboratoire).  
 - **Miroir** : Fonctionne comme n’importe quel autre miroir du manoir, offrant une "vue du dessus" de la pièce quand utilisé depuis la [18. Chambre Principale](#18-chambre-principale).  
-- **Fenêtre** : Obstruée par la végétation (see [3a. Entrée](#3a-entree)). N'est pas verrouillée.
+- **Fenêtre** : Obstruée par la végétation (voir [3a. Seuil](#3a-seuil)). N'est pas verrouillée.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/cuisine.webp)
 
