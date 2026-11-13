@@ -307,7 +307,7 @@ Des mur en bois étroits et un plancher de bois nu. Des **miroirs** sont dispos�
 Des **Arbres** bordent les côtés nord et Est d'un espace extérieur. En son centre se trouve un **puits**. Au Nord on peut voir un chemin à travers un épais taillis.
 
 - **Arbres** : Sont épais et plantés serrés. Une personne de forte corpulence aurait du mal à passer à travers.  
-  - En traversant les arbres du côté Est, on découvre un accès menant à la corde de draps pendant d'une fenêtre de la [16. Pièce Jaune](16-piece-jaune).  
+  - En traversant les arbres du côté Est, on découvre un accès menant à la corde de draps pendant d'une fenêtre de la [16. Pièce Jaune](16-pièce-jaune).  
 - **Puits** : Un seau accroché à une corde peut être utilisé.  
   - Boire de l'eau du puits provoque des visions intenses suivies d'une forte gueule de bois pendant [d4] heures. (Les attaques sont Atténuées et le buveur Affaibli.) Iels seront également contaminé par le [Mal Bleu](#mal-bleu).  
   - Les visions se manifestent d’abord par un sentiment confus de colère intense et de perte, suivi de l’image du visage d’une jeune femme, de draps ensanglantés et de la couleur bleue.
@@ -353,10 +353,10 @@ Une immense table en bois entourée de chaises occupe la pièce. Six petites **s
 
 Des passages ramifiés en bois pourri, d’un jaune criard. Une mousse bleutée recouvre presque tout le sol. Du côté Est se trouvent deux pièces, l'une avec une **porte rouge** et un balai à l'envers posé contre cette dernière et l'autre avec une **porte bleue**.  Du côté Ouest se trouve une pièce avec une **porte jaune**.
 
-- **Mousse** : Seul le sol à proximité de la [16. Pièce Jaune](16-piece-jaune) n'est pas recouvert de mousse.  
-- **Porte Rouge** : Verrouillée mais facile à forcer. Le balai peut être mis de côté sans problème (voir [Cauchemora](#cauchemora)). Voir [14. Pièce Rouge](#14-piece-rouge).  
-- **Porte Bleue** : N'est pas fermée à clé. Voir[15. Pièce Bleue](#15-piece-bleue).  
-- **Porte Jaune** : Verrouillée mais facile à forcer. Voir[16. Pièce Jaune](16-piece-jaune).
+- **Mousse** : Seul le sol à proximité de la [16. Pièce Jaune](16-pièce-jaune) n'est pas recouvert de mousse.  
+- **Porte Rouge** : Verrouillée mais facile à forcer. Le balai peut être mis de côté sans problème (voir [Cauchemora](#cauchemora)). Voir [14. Pièce Rouge](#14-pièce-rouge).  
+- **Porte Bleue** : N'est pas fermée à clé. Voir[15. Pièce Bleue](#15-pièce-bleue).  
+- **Porte Jaune** : Verrouillée mais facile à forcer. Voir[16. Pièce Jaune](16-pièce-jaune).
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/hall-of-rooms.webp)
 
@@ -381,7 +381,7 @@ Lorsqu’ils sont en colère, ils peuvent provoquer de terribles cauchemars et d
 
 Mora n'est pas son nom, simplement un surnom qu'Anna lui a donné. Elle l'aime cependant bien. Elle répondra à la gentillesse par la gentillesse.
 
-Quand Luciana tomba malade, Mora fit un rituel sur Anna qui éloigna le Mal Bleu. À mesure que Marius devenait de plus en plus paranoïaque, il commençait à suspecter que Mora travaillait contre lui. En effet elle fournit à Anna le Sirop de Clé et l'Ichor du Néant ([6. Laboratoire](#6-laboratoire)) pour échapper à son père. En représailles Marius enferma Mora dans la [14. Pièce Rouge](#14-piece-rouge) en plaçant un balais à l'envers contre la porte. Si le balai est bougé, le sort retenant Mora dans la pièce sera brisé et elle sera libre de se déplacer dans le domaine.
+Quand Luciana tomba malade, Mora fit un rituel sur Anna qui éloigna le Mal Bleu. À mesure que Marius devenait de plus en plus paranoïaque, il commençait à suspecter que Mora travaillait contre lui. En effet elle fournit à Anna le Sirop de Clé et l'Ichor du Néant ([6. Laboratoire](#6-laboratoire)) pour échapper à son père. En représailles Marius enferma Mora dans la [14. Pièce Rouge](#14-pièce-rouge) en plaçant un balais à l'envers contre la porte. Si le balai est bougé, le sort retenant Mora dans la pièce sera brisé et elle sera libre de se déplacer dans le domaine.
 
 Mora dévoilera avec joie tout ce qu’elle sait sur l’histoire de la famille Lockwood, en échange d’un peu de nourriture (surtout du foin). En tant qu'Esprit, elle n'est pas affectée par les effets de l'Ichor du Néant et sait tout ce qu'il s'est passé entre Marius, Isobel, Anna et Luciana. Bien qu'elle sache comment mettre fin à la malédiciton d'Isobel et informera bien volontiers les personnages qui se montreront gentil avec elle, elle n'agira pas contre Marius. Une fois libre elle ne souhaitera rien d'autre que de quitter le manoir maudit et retrouver Annafranax aussi vite que possible.
 
@@ -390,7 +390,7 @@ Mora dévoilera avec joie tout ce qu’elle sait sur l’histoire de la famille 
 Sa porte est peinte en bleu. Un simple **lit** est disposé au centre de la pièce perpendiculairement à une petite **commode**. Un grand **miroir** est posé contre le mur du Nord.
 
 - **Lit** : Les draps ont l'air propres. Le matelas dessous porte des tâches de sang.  
-  - Isobel a été poignardée à mort par Marius, qui a lavé les draps (mais pas le matelas) avant d'aller cacher l'arme du crime dans les toilettes de la ([14. Pièce Rouge](#14-piece-rouge)).  
+  - Isobel a été poignardée à mort par Marius, qui a lavé les draps (mais pas le matelas) avant d'aller cacher l'arme du crime dans les toilettes de la ([14. Pièce Rouge](#14-pièce-rouge)).  
 - **Commodes** : À l'intérieur des drap et des taies d'oreiller soigneusement pliés.  
 - **Mirror** : Contrairement à tous les autres miroirs du manoir celui-ci est banal.  
   - Il est fixé au mur ; au prix d’un effort considérable (assez pour déclencher un Évènement de Donjon), le cadre finira par pivoter, révélant un tunnel secret vers la [18. Chambre Principale](#18-chambre-principale).
@@ -404,7 +404,7 @@ Sa porte est peinte en jaune. Un **lit** sans draps se trouve près d'une **fen�
 - **Fenêtre** : Un auvent incurvé protège la chambre des intempéries.  
   - Donne sur la [7.Serre](#7-serre) et le bosquet d'arbres adjacent au [9. Puits](#9-puits).  
   - Une corde faite de draps moisis pend du rebord de la fenêtre jusqu'au sol. Elle se rompra si un.e adulte tente de s'y accrocher.  
-- **Maison de poupée** : Une réplique fidèle du manoir. Le passage secret reliant la [15. Pièce Bleue](#15-piece-bleue) à la [18. Chambre Principale](#18-chambre-principale) y est clairement visible.  
+- **Maison de poupée** : Une réplique fidèle du manoir. Le passage secret reliant la [15. Pièce Bleue](#15-pièce-bleue) à la [18. Chambre Principale](#18-chambre-principale) y est clairement visible.  
 - **Plancher** : Dépourvu de toute contamination. Sous aucune circonstance Marius n'entrera dans la pièce et ignorera quiconque y entrera.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/yellow-room.webp)
@@ -439,7 +439,7 @@ Un lit occupe le centre de la pièce, une **forme ** humanoide enfoncée en son 
 - **Miroir** : Celui-ci ne reflète rien. Une partie du verre semble manquer.  
   - Si le morceau de verre tenu par Luciana est replacé sur le miroir, i lse réparera et affichera une vue en direct de n’importe quelle pièce du manoir, même si cette dernière se trouve dans une complète obscurité.  
 - **Étagère** : Essentiellement des petits objets sans valeur, ainsi qu’une illustration de Marius.  
-  - Sous l'étagère se trouve un bouton qui active le passage secret vers la [15. Pièce Bleue](#15-piece-bleue), qui s'ouvre en pivotant.  
+  - Sous l'étagère se trouve un bouton qui active le passage secret vers la [15. Pièce Bleue](#15-pièce-bleue), qui s'ouvre en pivotant.  
   - Anna se servait de ce passage pour rendre visite à sa mère après que Marius eut enfermé Luciana.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/private-chambers.webp)
