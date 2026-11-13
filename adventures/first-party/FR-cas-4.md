@@ -127,7 +127,7 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 
 ### Évènements de Donjon
 
-| [d4] | Rencontres |  |
+| d4 | Rencontres |  |
 | :---- | :---- | :---- |
 | 1 | Marius | **À l'intérieur** : Une démarche lourde fait trembler le manoir. Dehors : Une silhouette **sombre** passe en titubant devant une fenêtre ouverte. |
 | 2 | Mossling | Un ricanement étouffé se fait entendre, provenant des profondeurs de l’obscurité, au ras du sol. Quelque chose bouge dans l’ombre. |
@@ -136,7 +136,7 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 
 | d4 | Environnement |
 | :---- | :---- |
-| 1 | Le plancher est instable et menace de s'effondrer. Réussissez un jet de sauvegarde DEX ou prenez [d4] dégâts de FOR du bois brisé. |
+| 1 | Le plancher est instable et menace de s'effondrer. Réussissez un jet de sauvegarde DEX ou prenez d4 dégâts de FOR du bois brisé. |
 | 2 | L’humidité s'écoule du plafond, éteignant les flammes nues. |
 | 3 | Un intense parfum floral vous arrive aux narines depuis l’Ouest. L’odeur s’accompagne d’une pointe d'acidité, suivie de nausées. |
 | 4 | Un vent hurlant balaie les lieux. Le manoir gémit et bouge en réaction. |
@@ -278,7 +278,7 @@ Un grand **meuble** pourvu de 30 petits tiroirs se trouve du côté Ouest. Un lo
 | 3 | Graines d'arbre à savon | Petites billes enduites de poudre noire. Créent une obscurité impénétrable. 2 utilisations. |
 | 4 | Fiole de gelée royale | Guérit de la privation et peut être utilisée comme ration. 4 utilisations. |
 | 5 | Essence d'aile de chauve-souris | Met en lévitation incontrôlée pendant [1d4] minutes. Jet de sauvegarde DEX pour éviter la cata. 1 utilisation. |
-| 6 | Digital Séchée | Comprendre, pendant une heure, les grognements et pépiements du Bois. Doit être fumée (provoque l'Épuisement). 1 utilisation. |
+| 6 | Digitale Séchée | Comprendre, pendant une heure, les grognements et pépiements du Bois. Doit être fumée (provoque l'Épuisement). 1 utilisation. |
 
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/laboratoire.webp)
@@ -290,7 +290,7 @@ Les panneaux de verre de la toiture sont pour la plupart intacts, projetant un k
 - **Plantes** : Des variétés atypiques. Certaines réagissent au toucher ; d’autres émettent des gloussements.  
 - **Voile**: Dissimulée en dessous se trouve de la Pourriture verte, un champignon bioluminescent. Gardé en vie, il peut produire une lumière équivalente à celle d’une bougie, jusqu’à ce qu’il soit exposé à la lumière du soleil.  
 - **Odeur** : Provient d'un petite fleur jaune à feuilles violettes appelée Pâquerette Rêveuse. Rester ici plus d'un Cycle D'Exploration de Donjon provoquera une crise Panique, la victime étant en proie à d’horribles hallucinations.  
-- **Fenêtre** : Offre une vue en biais de la [16. Pièce Jaune](#16.-pièce-jaune). On peut y voir une corde faites de draps.
+- **Fenêtre** : Offre une vue en biais de la [16. Pièce Jaune](#16.-piece-jaune). On peut y voir une corde faites de draps.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/greenhouse.webp)
 
@@ -308,7 +308,7 @@ Des **Arbres** bordent les côtés nord et Est d'un espace extérieur. En son ce
 - **Arbres** : Sont épais et plantés serrés. Une personne de forte corpulence aurait du mal à passer à travers.  
   - En traversant les arbres du côté Est, on découvre un accès menant à la corde de draps pendant d'une fenêtre de la [16. Pièce Jaune](16-pièce-jaune).  
 - **Puits** : Un seau accroché à une corde peut être utilisé.  
-  - Boire de l'eau du puits provoque des visions intenses suivies d'une forte gueule de bois pendant [d4] heures. (Les attaques sont Atténuées et le buveur Affaibli.) Iels seront également contaminé par le [Mal Bleu](#mal-bleu).  
+  - Boire de l'eau du puits provoque des visions intenses suivies d'une forte gueule de bois pendant d4 heures. (Les attaques sont Atténuées et le buveur Affaibli.) Iels seront également contaminé par le [Mal Bleu](#mal-bleu).  
   - Les visions se manifestent d’abord par un sentiment confus de colère intense et de perte, suivi de l’image du visage d’une jeune femme, de draps ensanglantés et de la couleur bleue.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/well.webp)
@@ -428,7 +428,7 @@ Des **étagères** vermoulues forment des sentiers sinueux à travers la pièce.
 
 #### 18. Chambre Principale
 
-Un lit occupe le centre de la pièce, une **forme ** humanoide enfoncée en son milieu. À l'Est un petit **bureau** et une chaise sont placés sous une fenêtre dont les rideaux sont tirés. Un long miroir est accroché au mur Sud, et une étagère suspendue est chargée d’effets personnels.
+Un lit occupe le centre de la pièce, une **forme ** humanoïde enfoncée en son milieu. À l'Est un petit **bureau** et une chaise sont placés sous une fenêtre dont les rideaux sont tirés. Un long miroir est accroché au mur Sud, et une étagère suspendue est chargée d’effets personnels.
 
 - **Forme** : Le cadavre desséché d'une femme repose sur le lit,  un morceau de verre dans une main.  
   - Cette femme est Luciana. Elle s’est ouvert les poignets avec un éclat de verre, afin d’échapper à la souffrance d’oublier sa propre fille sous l’effet de l’Ichor du Néant. ([6. Laboratoire](#6-laboratoire)). Son cadavre est un amalgame de chair en décomposition et de résidus végétaux.  
@@ -455,16 +455,16 @@ Un lit occupe le centre de la pièce, une **forme ** humanoide enfoncée en son 
 
 | d6 |  |  |
 | :---- | :---- | :---- |
-| **1** | **Rencontres** | Faire un jet avec la [Reactions Table](#Table-de-Réactions). Possible **hostilité**. |
+| **1** | **Rencontres** | Faire un jet avec la [Table des Réactions](#Table-des-Réactions). Possible **hostilité**. |
 | **2** | **Signe** | Un indice, une trace, une piste, un repaire abandonné, une odeur, une victime, etc., sont découverts. |
-| **3** | **Environnement** | Possibilité de faire un jet avec la [Table d'Environnement]. |
-| **4** | **Perte** | Les torches sont éteintes, un sort en cours s’estompe, etc. Le groupe devra régler ce problème avant de poursuivre. |
+| **3** | **Environnement** | Possibilité de faire un jet avec la [Table d'Environnement](#carte-du-manoir-lockwood-&-évènements-de-donjon) |
+| **4**  | **Perte** | Les torches sont éteintes, un sort en cours s’estompe, etc. Le groupe devra régler ce problème avant de poursuivre. |
 | **5** | **Fatigue** | Le groupe doit se reposer (déclenchant un autre jet avec cette table), ajouter une **Fatigue**, ou manger une ration. |
 | **6** | **Calme** | Le groupe est laissé tranquille (et en sécurité) pour le moment. |
 
-## Table de Réactions
+## Table des Réactions
 
-Lorsque les PJ rencontrent un PNJ dont la réaction vis-à-vis du groupe n’est pas claire, le Gardien peut effectuer un jet de [2d6] et consulter la table ci-dessous:
+Lorsque les PJ rencontrent un.e PNJ dont la réaction vis-à-vis du groupe n’est pas claire, le Gardien peut effectuer un jet de [2d6] et consulter la table ci-dessous:
 
 | 2 | 3-5 | 6-8 | 9-11 | 12 |
 | :---- | :---- | :---- | :---- | :---- |
@@ -474,7 +474,7 @@ Lorsque les PJ rencontrent un PNJ dont la réaction vis-à-vis du groupe n’est
 
 [Ajouter Carte Soimple traduite dans dossier]
 
-| [d4] | Rencontres |  |
+| d4 | Rencontres |  |
 | :---- | :---- | :---- |
 | 1 | Marius | **À l'intérieur** : Des pas lourds font trembler le manoir. Dehors : Une silhouette **sombre** passe en titubant devant une fenêtre ouverte. |
 | 2 | Mossling | A faint giggle is heard from deep in the dark, low to the ground. Something moves in shadow. |
@@ -485,7 +485,7 @@ Lorsque les PJ rencontrent un PNJ dont la réaction vis-à-vis du groupe n’est
 
 | d4 | Environnement |
 | :---- | :---- |
-| 1 | Le plancher est instable et menace de s'effondre. Réussissez un jet de sauvegarde DEX ou prenez [d4] dégâts de FOR des chutes de bois. |
+| 1 | Le plancher est instable et menace de s'effondre. Réussissez un jet de sauvegarde DEX ou prenez d4 dégâts de FOR des chutes de bois. |
 | 2 | L’humidité du plafond goutte, éteignant les flammes nues. |
 | 3 | Un parfum floral intense vous parvient depuis l’Ouest. L’odeur s’accompagne d’une pointe d'acidité, qui provoque des nausées. |
 | 4 | Un vent hurlant balaie les lieux. Le manoir gémit et bouge en réaction. |
