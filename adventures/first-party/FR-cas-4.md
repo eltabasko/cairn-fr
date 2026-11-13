@@ -195,7 +195,7 @@ Un petit **bâtiment** en ruines fait de bois ternis et de pierre. Le bout d'un 
 - **Décombres** : Des débris de maçonnerie, des cadres de lit et des effets personnels carbonisés jonchent le sol.  
   - Un morceau de miroir mural a survécu au feu, contrairement à son cadre. le revers de la vitre est anormalement phosphorescent et brille dans le noir.  
   - Un collier serti d'un rubis rouge(valeur 150po) est enfoui dans les cendres. Un cadeau de Marius à Isobel, son nom est gravé dessus. Quiconque portant le collier se rendra compte qu'ils ne pourront pas l'enlever (même par la force). Il peut seulement être retiré par quelqu’un qui a subi un tort de la part de celui qui le porte, puis l'aura pardonné.e. Si Isobel trouve le repos, le collier revient à son état normal.  
-- **Chemin** : Depuis l'arrière du bâtiment se trouve un chemin menant au croisement du [9. Puits](#9-puits).
+- **Chemin** : Depuis l'arrière du bâtiment se trouve un chemin menant au croisement du [9. Puits](#9-puits) et du [10. Théâtre de plein air](#10-théâtre-de-plein-air).
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/servants-quarters.webp)
 
@@ -303,7 +303,7 @@ Des mur en bois étroits et un plancher de bois nu. Des **miroirs** sont dispos�
 
 #### 9. Puits
 
-Des **Arbres** bordent les côtés nord et Est d'un espace extérieur. En son centre se trouve un **puits**. Au Nord on peut voir un chemin à travers un épais taillis.
+Des **Arbres** bordent les côtés Nord et Est d'un espace extérieur rectangle. En son centre se trouve un **puits**. Au Nord on peut voir un chemin à travers un épais taillis.
 
 - **Arbres** : ils sont épais et plantés serrés. Une personne de forte corpulence aurait du mal à passer à travers.  
   - En traversant les arbres du côté Est, on découvre un accès menant à la corde de draps pendant d'une fenêtre de la [16. Chambre Jaune](#16-chambre-jaune).  
