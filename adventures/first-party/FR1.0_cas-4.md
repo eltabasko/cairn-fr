@@ -8,7 +8,9 @@
 
 Un Module d'Aventure pour Cairn 2e par Yochai Gal
 
-**Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Misen en page par Adam Hensley. Edité par Yossi Krausz. Édition développementale by Derek B. Traduction 1.0 Nov. 2026 par Tabasko.
+**Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Misen en page par Adam Hensley. Edité par Yossi Krausz. Édition développementale by Derek B.
+
+Traduction 1.0 Nov. 2026 par Tabasko.
 
 Publié par Cairn Press en Octobre 2026\.
 
