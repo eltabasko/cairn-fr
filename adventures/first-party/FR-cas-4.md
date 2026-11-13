@@ -8,7 +8,7 @@ L'aventure qui suit est également disponible (VO) :
 
 ![CAS-4 Cover](https://cairnrpg.com/adventures/first-party/img/cas-4/CAS-4_cover.webp)
 
-**Séries d'Aventures de Cairn 4**
+**Cairn Adventures Series 4**
 
 Un module d'aventure pour Cairn 2e par Yochai Gal
 
@@ -25,7 +25,7 @@ Les Textes et mise en page sont sous Licence CC-BY SA 4.0.
 
 Il y a plusieurs décennies de cela, Marius Lockwood, héritier d'une famille fortunée, revint sur l'exploitation familiale avec sa femme Luciana et sa jeune fille Anna. Moins d'un an plus tard, le domaine sombra dans le silence, et l’on n’eut plus guère de nouvelles de la famille.
 
-Les personnages devraient pouvoir identifier des armoiries familiales bien connues, comme celles des Lockwood. Pendant ce temps, les rumeurs vont bon train au sujet d’une nouvelle maladie transmise par l’eau, qui tue lentement ses victimes en leur remplissant les poumons de mousse.
+Les personnages devraient pouvoir identifier des armoiries familiales bien connues, comme celles des Lockwood. Pendant ce temps, les rumeurs vont bon train au sujet d’une nouvelle maladie hydrique, qui tue lentement ses victimes en leur remplissant les poumons de mousse.
 
 ![Family Crest](https://cairnrpg.com/adventures/first-party/img/cas-4/family-crest.webp)
 
@@ -41,11 +41,11 @@ Une assemblée de dames et de seigneurs, propriétaires terriens et fortunés. R
 
 Quelques mois à peine après son arrivée au manoir, Marius entama une liaison avec une domestique, Isobel. Jeune et inexpérimentée, elle tomba amoureuse de Marius et menaça de révéler leur relation à sa femme. Marius, craignant de perdre son rang familial, assassina Isobel et enterra son corps dans un bosquet voisin (voir [11.Clairière](#11-clairière)). Ce que Marius ne réalisa pas était que la jeune Isobel était une Demi-Sorcière dont l'esprit maudit la famille Lockwood et ses descendants, contaminant leur approvisionnement en eau ([9. Puits](#9-puits)) avec le [Mal Bleu](#mal-bleu).
 
-Peu après, Luciana commença à montrer les signes d'une infection, son corps s'atrophiant lentement en un amalgame de plante et de femmes. À mesure que son état empirait, Marius se retira des élites de la société, devenant de jour en jour plus reclus et paranoïaque, allant jusqu’à installer des miroirs divinatoires pour espionner son personnel. Il finit par isoler le domaine du monde extérieur et licencia le reste du personnel. Puis il enferma Luciana dans leur chambre et interdit tout visite.
+Peu après, Luciana commença à montrer les signes d'une infection, son corps s'atrophiant lentement en un amalgame de plante et de femmes. À mesure que son état empirait, Marius se retira des élites de la société, devenant de jour en jour plus reclus et paranoïaque, allant jusqu’à installer des miroirs divinatoires pour espionner le personnel de maison. Il finit par isoler le domaine du monde extérieur et licencia le reste du personnel. Puis il enferma Luciana dans leur chambre et interdit tout visite.
 
 Marius se figura tôt ou tard que pour créer un remède il lui faudrait des échantillons d'un proche en bonne santé — Anna. Pour assurer sa sécurité, Luciana ordonna à sa fille de s'enfuir et de boire une fiole d'Ichor du Néant ([6. Laboratoire](#6-laboratoire)), ce qui effacerait tout souvenir d'elle dans le monde. Aidée par [Mora la Cauchemora](#mora-la-cauchemora), Anna prit la fuite jusqu'à la Forêt, ne buvant la potion que lorsqu'elle se trouva suffisamment loin de son père.
 
-Ne souhaitant pas vivre l'expérience de la mort "par oubli" de sa fille, Luciana se donna la mort. En découvrant le corps de sa femme, Marius entra dans une rage folle et, dans un accès de démence, avala une version expérimentale du remède pour le Mal Bleu, qui le transforma en une masse informe. Ces jours, il erre dans le manoir, propageant l’infection dans presque toutes les pièces. Seule la [16. Chambre Jaune](#16-chambre-jaune) demeure intouchée.
+Ne souhaitant pas éprouver l'aliénation de sa fille, Luciana se donna la mort. En découvrant le corps de sa femme, Marius entra dans une rage folle et, dans un accès de démence, prit une version expérimentale du remède pour le Mal Bleu, qui le transforma en une masse informe. Ces jours, il erre dans le manoir, propageant l’infection dans presque toutes les pièces. Seule la [16. Chambre Jaune](#16-chambre-jaune) demeure intouchée.
 
 Avec le temps, la propriété tomba en ruine, les haies délaissées retrouvèrent un aspect rustique. Des décennies plus tard, l’esprit d’Isobel continue de hanter le domaine, gémissant de chagrin et de désespoir.
 
@@ -54,17 +54,17 @@ Avec le temps, la propriété tomba en ruine, les haies délaissées retrouvère
 ### Accroches
 
 - La Bourgmestre Lisbeth Milo a décidé de discrètement se renseigner sur le domaine Lockwood, une demeure autrefois somptueuse située au Nord de Waterfall City. Milo recherche un groupe d’aventuriers compétents pour s’aventurer dans le manoir et récupérer tout effet personnel appartenant à une femme nommée Anna Lockwood, ainsi que toute information concernant le dernier endroit où elle a été vue. En guise de paiement elle offre 100po par personne, et le groupe pourra garder n'importe quel objet ou trésor qui n'a pas de lien avec la mission. Milo est la petite nièce de Luciana,  cependant elle ne révèlera pas cette information aux PJ.  
-- Au cours des dernières semaines le village de Reprieve a été frappé par une vague de maladies étranges transmises au contact de l’eau. La Nuée locale demande à un groupe d'aventuriers d’explorer un manoir en ruines, juste au nord du village. Ils paieront 500po (total), à condition qu’un remède soit trouvé et que la maladie cesse. En outre, la Nuée sera redevable au groupe.
+- Au cours de ces dernières semaines le village de Reprieve <!-- (Répit) --> a été frappé par une vague de maladies étranges transmises par l'eau. La Nuée locale demande à un groupe d'aventuriers d’explorer un manoir en ruines, juste au nord du village. Ils paieront 500po (total), à condition qu’un remède soit trouvé et que la maladie cesse. En outre, la Nuée sera redevable au groupe.
 
 ### Terminer l'aventure
 
-Enterrée sous le tas de rochers dans la [11. Clairière](#11-clairière), la frêle silhouette d’Isobel contamine en permanence le réseau d’eau du manoir.([9. Puits](#9-puits)). Pour briser la malédiction, son nom doit être prononcé à voix haute au-dessus de son corps enterré. Si laissée irrésolue la malédiction d'Isobel continuera à se propager dans la Forêt et les cours d'eau alentour, jusqu'à atteindre la région.
+Enterrée sous le tas de rochers dans la [11. Clairière](#11-clairière), la frêle silhouette d’Isobel contamine sans cesse le réseau d’eau du manoir.([9. Puits](#9-puits)). Pour briser la malédiction, son nom doit être prononcé à voix haute au-dessus de son corps enterré. Si laissée irrésolue la malédiction d'Isobel continuera à se propager dans la Forêt et les cours d'eau alentour, jusqu'à contaminer la région.
 
 ![Portraits](https://cairnrpg.com/adventures/first-party/img/cas-4/portraits.webp)
 
 ## Informations importantes
 
-Il est recommandé de commencer l'aventure à l'extérieur du manoir ([1. Portail](#1-portail). Lancez un Dé de Destin pour déterminer le temps qu'il fait ainsi que l'heure à laquelle le groupe arrive. Faites un jet de Réaction pour les créatures rencontrées pendant l'aventure, sauf pour [Isobel](#isobel) et [Marius](#marius).
+Il est recommandé de commencer l'aventure à l'extérieur du manoir ([1. Portail](#1-portail). Lancez un Dé de Destin pour déterminer le temps qu'il fait ainsi que l'heure à laquelle le groupe arrive. Faites un Jet de Réaction pour les créatures rencontrées pendant l'aventure, sauf pour [Isobel](#isobel) et [Marius](#marius).
 
 ### Détails Sensoriels
 
@@ -76,7 +76,7 @@ Des miroirs sont présents dans chaque pièce sauf le [6.Laboratoire](#6-laborat
 
 ### Mousse Bleue
 
-Répandue par Marius, surtout si il est blessé. Endommager la mousse l’attirera vers elle. (faites un jet d' [Evènement de Donjon](#dungeon-events)). La mousse couvre quasiment toutes les surfaces du manoir.
+Répandue par Marius, surtout si il est blessé. Endommager la mousse l’attirera vers elle (faites un jet d'[Evènement de Donjon](#dungeon-events)). La mousse tapisse quasiment toutes les surfaces du manoir.
 
 - L'étudier révèle qu'elle tressaute toutes les 2-3 minutes.  
 - Elle est attirée par la chair lorsque proche d'elle, mais se courbera à proximité d'une source de chaleur. Un personnage touchant la mousse aura une [4-in-6] chance de devenir infecté.e par le [Mal Bleu](#mal-bleu).
@@ -112,7 +112,7 @@ L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle n
 
 ### Marius
 
-Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse bleue à travers chaque pièce, sauf pour la [16. Chambre Jaune](#16-chambre-jaune), qu'il évite. Il est toujours agressif et ne peut pas être raisonné. Si pas déjà Rencontré, il se trouvera dans le [6. Laboratoire](#6-laboratoire).
+Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse bleue dans chaque pièce, sauf pour la [16. Chambre Jaune](#16-chambre-jaune), qu'il évite. Il est toujours agressif et ne peut pas être raisonné. Si pas déjà Rencontré, il se trouvera dans le [6. Laboratoire](#6-laboratoire).
 
 ### Masse Titubante
 
@@ -138,6 +138,8 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 | 3 | Un intense parfum floral vous arrive aux narines depuis l’Ouest. L’odeur s’accompagne d’une pointe d'acidité, suivie de nausées. |
 | 4 | Un vent hurlant balaie les lieux. Le manoir gémit et bouge en réaction. |
 
+> Simple Map Gray [en cours de traduction]
+<!--
 {::nomarkdown}
 <img
   class="jil-map-image"
@@ -161,6 +163,7 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
   data-jil-labels="false"
 />
 {:/nomarkdown}
+-->
 
 ## Le Manoir
 
@@ -469,7 +472,7 @@ Lorsque les PJ rencontrent un.e PNJ dont la réaction vis-à-vis du groupe n’e
 
 ## Carte du Manoir Lockwood & Évènements de Donjon
 
-[Ajouter Carte Simple traduite dans dossier]
+Simple Map [en cours de traduction]
 
 | d4 | Rencontres |  |
 | :---- | :---- | :---- |
