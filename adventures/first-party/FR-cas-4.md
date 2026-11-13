@@ -12,7 +12,7 @@ Un Module d'Aventure pour Cairn 2e par Yochai Gal
 
 Traduction 1.0 Nov. 2026 par Tabasko.
 
-Publié par Cairn Press en Octobre 2026\.
+Publié par Cairn Press en Octobre 2026.
 
 Les Textes et mise en page sont sous Licence CC-BY SA 4.0.
 
@@ -22,7 +22,7 @@ Les Textes et mise en page sont sous Licence CC-BY SA 4.0.
 
 Il y a plusieurs décennies de cela, Marius Lockwood, l'héritier d'une famille fortunée, revint sur l'exploitation familiale avec sa femme Luciana et sa jeune fille Anna. Moins d'un an plus tard, le domaine sombra dans le silence, et l’on n’eut plus guère de nouvelles de la famille.
 
-Les personnages devraient pouvoir identifier des armoiries familiales bien connues, comme celles des Lockwood. Entre-temps, les rumeurs vont bon train au sujet d’une nouvelle maladie transmise par l’eau, qui tue lentement ses victimes en leur remplissant les poumons de mousse.
+Les personnages devraient pouvoir identifier des armoiries familiales bien connues, comme celles des Lockwood. Pendant ce temps, les rumeurs vont bon train au sujet d’une nouvelle maladie transmise par l’eau, qui tue lentement ses victimes en leur remplissant les poumons de mousse.
 
 ![Family Crest](https://cairnrpg.com/adventures/first-party/img/cas-4/family-crest.webp)
 
@@ -32,17 +32,17 @@ Populaires parmi ceux vivant près de la Forêt, les disciples du Corbeau Blanc 
 
 ### La Chambre des Bourgmestres
 
-Une assemblée de dames et de seigneurs, propriétaires terriens et fortunés. Rusés, déterminés et convaincus de leur propre supériorité, ils peuvent accomplir de grandes choses lorsqu’ils agissent de concert. Malheureusement leurs efforts sont souvent sapés par leurs querelles personnelles et disputes sordides, ainsi que leur soif insatiable de pouvoir et de prestige.
+Une assemblée de dames et de seigneurs, propriétaires terriens et fortunés. Rusés, déterminés et convaincus de leur propre supériorité, ils peuvent accomplir de grandes choses lorsqu’ils agissent de concert. Malheureusement leurs efforts sont souvent sapés par les querelles personnelles et disputes sordides, ainsi que leur soif insatiable de pouvoir et de prestige.
 
 ### Que se passe t-il vraiment ?
 
-Quelques mois à peine après son arrivée au manoir, Marius entama une liaison avec une domestique, Isobel. Jeune et inexpérimentée, elle tomba amoureuse de Marius et menaça de révéler leur relation à sa femme. Marius, craignant de perdre son statut familial, assassina Isobel et enterra son corps dans un bosquet voisin (voir [11.Clairière](#11.-clairiere)). Ce que Marius ne réalisa pas était que la jeune Isobel était une Demi-Sorcière dont l'esprit maudit la famille Lockwood et ses descendants, contaminant leur approvisionnement en eau ([9\. Puits](#9-puits)) avec le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).
+Quelques mois à peine après son arrivée au manoir, Marius entama une liaison avec une domestique, Isobel. Jeune et inexpérimentée, elle tomba amoureuse de Marius et menaça de révéler leur relation à sa femme. Marius, craignant de perdre son rang familial, assassina Isobel et enterra son corps dans un bosquet voisin (voir [11.Clairière](#11-clairiere)). Ce que Marius ne réalisa pas était que la jeune Isobel était une Demi-Sorcière dont l'esprit maudit la famille Lockwood et ses descendants, contaminant leur approvisionnement en eau ([9. Puits](#9-puits)) avec le [Mal Bleu](#mal-bleu).
 
 Peu après, Luciana commença à montrer les signes d'une infection, son corps s'atrophiant lentement en un amalgame de plante et de femmes. À mesure que son état empirait, Marius se retira des élites de la société, devenant de jour en jour plus reclus et paranoïaque, allant jusqu’à installer des miroirs divinatoires pour espionner son personnel. Il finit par isoler le domaine du monde extérieur et licencia le reste du personnel. Puis il enferma Luciana dans leur chambre et interdit tout visite.
 
-Marius se figura tôt ou tard que pour créer un remède il lui faudrait des échantillons d'un proche en bonne santé — Anna. Pour assurer sa sécurité, Luciana ordonna à sa fille de s'enfuir et de boire une fiole d'Ichor du Néant ([6\. Workshop](#6-Atelier)), ce qui effacerait tout souvenir d'elle dans le monde. Aidée par [Mora la Cauchemora](https://cairnrpg.com/adventures/first-party/cas-4/#mora-the-cauchemora), Anna prit la fuite jusqu'à la Forêt, ne buvant la potion que lorsqu'elle se trouva suffisamment loin de son père.
+Marius se figura tôt ou tard que pour créer un remède il lui faudrait des échantillons d'un proche en bonne santé — Anna. Pour assurer sa sécurité, Luciana ordonna à sa fille de s'enfuir et de boire une fiole d'Ichor du Néant ([6. Laboratoire](#6-laboratoire)), ce qui effacerait tout souvenir d'elle dans le monde. Aidée par [Mora la Cauchemora](#mora-la-cauchemora), Anna prit la fuite jusqu'à la Forêt, ne buvant la potion que lorsqu'elle se trouva suffisamment loin de son père.
 
-Ne souhaitant pas vivre l'expérience de la mort "par oubli" de sa fille, Luciana se donna la mort. En découvrant le corps de sa femme, Marius entra dans une rage folle et, dans un accès de démence, avala une version expérimentale du remède pour le Mal Bleu, qui le transforma en une masse informe. Ces jours, il erre dans le manoir, propageant l’infection dans presque toutes les pièces. Seule la [16\. Yellow Room](https://cairnrpg.com/adventures/first-party/cas-4/#16-yellow-room) demeure intouchée.
+Ne souhaitant pas vivre l'expérience de la mort "par oubli" de sa fille, Luciana se donna la mort. En découvrant le corps de sa femme, Marius entra dans une rage folle et, dans un accès de démence, avala une version expérimentale du remède pour le Mal Bleu, qui le transforma en une masse informe. Ces jours, il erre dans le manoir, propageant l’infection dans presque toutes les pièces. Seule la [16. Chambre Jaune](#16-chambre-jaune) demeure intouchée.
 
 Avec le temps, la propriété tomba en ruine, les haies délaissées retrouvèrent un aspect rustique. Des décennies plus tard, l’esprit d’Isobel continue de hanter le domaine, gémissant de chagrin et de désespoir.
 
@@ -55,13 +55,13 @@ Avec le temps, la propriété tomba en ruine, les haies délaissées retrouvère
 
 ### Terminer l'aventure
 
-Enterrée sous le tas de rochers dans la [11\. Glade](#11.-Clairière), la frêle silhouette d’Isobel contamine en permanence le réseau d’eau du manoir.([9\. Well](https://cairnrpg.com/adventures/first-party/cas-4/#9-well)). Pour briser la malédiction, son nom doit être prononcé à voix haute au-dessus de son corps enterré. Si laissée irrésolue la malédiction d'Isobel continuera à se propager dans la Forêt et les cours d'eau alentour, jusqu'à atteindre la région.
+Enterrée sous le tas de rochers dans la [11. CLairière](#11-clairiere), la frêle silhouette d’Isobel contamine en permanence le réseau d’eau du manoir.([9. Puits](#9-puits)). Pour briser la malédiction, son nom doit être prononcé à voix haute au-dessus de son corps enterré. Si laissée irrésolue la malédiction d'Isobel continuera à se propager dans la Forêt et les cours d'eau alentour, jusqu'à atteindre la région.
 
 ![Portraits](https://cairnrpg.com/adventures/first-party/img/cas-4/portraits.webp)
 
 ## Informations importantes
 
-Il est recommandé de commencer l'aventure à l'extérieur du manoir ([1\. Portail](#1.-Le-portail). Lancez un Dé de Destin pour déterminer le temps qu'il fait ainsi que l'heure à laquelle le groupe arrive. Faites un jet de Réaction pour les créatures rencontrées pendant l'aventure, sauf pour [Isobel](https://cairnrpg.com/adventures/first-party/cas-4/#isobel) et [Marius](https://cairnrpg.com/adventures/first-party/cas-4/#marius).
+Il est recommandé de commencer l'aventure à l'extérieur du manoir ([1. Portail](#1-Le-portail). Lancez un Dé de Destin pour déterminer le temps qu'il fait ainsi que l'heure à laquelle le groupe arrive. Faites un jet de Réaction pour les créatures rencontrées pendant l'aventure, sauf pour [Isobel](https://cairnrpg.com/adventures/first-party/cas-4/#isobel) et [Marius](https://cairnrpg.com/adventures/first-party/cas-4/#marius).
 
 ### Détails Sensoriels
 
@@ -69,7 +69,7 @@ Il n'existe aucune lumière artificielle nulle part dans le manoir, et la plupar
 
 ### Les miroirs
 
-Des miroirs sont présents dans chaque pièce sauf [6\. L'atelier](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop). Ils ont un aspect normal, mais scintillent parfois d’un vert phosphorescent. En fait, chaque miroir agit comme un point d'observation depuis le miroir installé dans [18\. La chambre principale](https://cairnrpg.com/adventures/first-party/cas-4/#18-private-chambers). Si le support en bois collé au dos d’un miroir est enlevé, la face arrière du verre devient luminescente dans l’obscurité, sans pour autant éclairer vraiment.
+Des miroirs sont présents dans chaque pièce sauf [6. L'atelier](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop). Ils ont un aspect normal, mais scintillent parfois d’un vert phosphorescent. En fait, chaque miroir agit comme un point d'observation depuis le miroir installé dans [18. La chambre principale](https://cairnrpg.com/adventures/first-party/cas-4/#18-private-chambers). Si le support en bois collé au dos d’un miroir est enlevé, la face arrière du verre devient luminescente dans l’obscurité, sans pour autant éclairer vraiment.
 
 ### Mousse Bleue
 
@@ -80,7 +80,7 @@ Répandue par Marius, surtout si il est blessé. Endommager la mousse l’attire
 
 ### Mal Bleu/Mal de Mousse
 
-Une maladie virale qui se propage par les gouttelettes d'eau ou au contact de sang contaminé. Les symptômes commencent par l’expectoration d’une mousse bleuâtre chez les individus infectés ; ces derniers finissent par mourir d’asphyxie au bout d’un mois environ. Le remède est détaillé dans le journal de Marius ([6\. Workshop](#6-workshop)), mais peut être seulement implanté par un.e Greenwise ou un.e herboriste. Un parent du patient, en bonne santé, est aussi requis pour que le traitement fonctionne. Si l'esprit d'Isobel est mis au repos, la malédiction prendra fin et les victimes encore vivantes seront épargnées.
+Une maladie virale qui se propage par les gouttelettes d'eau ou au contact de sang contaminé. Les symptômes commencent par l’expectoration d’une mousse bleuâtre chez les individus infectés ; ces derniers finissent par mourir d’asphyxie au bout d’un mois environ. Le remède est détaillé dans le journal de Marius ([6. Workshop](#6-workshop)), mais peut être seulement implanté par un.e Greenwise ou un.e herboriste. Un parent du patient, en bonne santé, est aussi requis pour que le traitement fonctionne. Si l'esprit d'Isobel est mis au repos, la malédiction prendra fin et les victimes encore vivantes seront épargnées.
 
 ![Important Information](https://cairnrpg.com/adventures/first-party/img/cas-4/important-info.webp)
 
@@ -90,9 +90,9 @@ Une maladie virale qui se propage par les gouttelettes d'eau ou au contact de sa
 
 ### Isobel
 
-L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle ne réalise pas qu'elle n'est plus de ce monde, ni qu'elle ne peut plus interagir directement avec le monde matériel. La venue de son esprit est toujours précédée d’une chute de température, et les sources de lumière exposées se mettent à vaciller. Quiconque tombant sur Isobel devra immédiatement réussir un **jet de sauvegarde** de VOL pour éviter d'être en Panique jusqu'à ce qu'elle s'en aille. Elle ne reste jamais au même endroit plus d’un Cycle d’Exploration de Donjon. Prononcer son nom en sa présence la pousse à fuir vers son corps dans la [11\. Glade](https://cairnrpg.com/adventures/first-party/cas-4/#11-glade). Si le nom d'Isobel est prononcé à haute voix au-dessus de son corps, son esprit sera libéré et la malédiction qu'elle a engendré prendra ainsi fin.
+L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle ne réalise pas qu'elle n'est plus de ce monde, ni qu'elle ne peut plus interagir directement avec le monde matériel. La venue de son esprit est toujours précédée d’une chute de température, et les sources de lumière exposées se mettent à vaciller. Quiconque tombant sur Isobel devra immédiatement réussir un **jet de sauvegarde** de VOL pour éviter d'être en Panique jusqu'à ce qu'elle s'en aille. Elle ne reste jamais au même endroit plus d’un Cycle d’Exploration de Donjon. Prononcer son nom en sa présence la pousse à fuir vers son corps dans la [11. Glade](https://cairnrpg.com/adventures/first-party/cas-4/#11-glade). Si le nom d'Isobel est prononcé à haute voix au-dessus de son corps, son esprit sera libéré et la malédiction qu'elle a engendré prendra ainsi fin.
 
-### Mossling/Jeune Moussu
+### Mossling
 
 3 HP, 5 FOR, 14 DEX, 12 VOL, spores toxiques ([d6](https://cairnrpg.com/adventures/first-party/cas-4/#), blast)
 
@@ -100,7 +100,7 @@ L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle n
 - Sujets au Mal Bleu, savent qu'il faut éviter la mousse bleue.  
 - **Critical Damage** : Des brûlures chimiques douloureuses apparaissent sur les zones ciblées.
 
-### Infected Mossling/Moussu Infecté
+### Mossling Infecté
 
 1 HP, 2 FOR, 16 DEX, 4 VOL, spores infectés ([d10](https://cairnrpg.com/adventures/first-party/cas-4/#), blast)
 
@@ -109,13 +109,13 @@ L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle n
 
 ### Marius
 
-Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse bleue à travers chaque pièce, sauf pour la [16\. Chambre Jaune](https://cairnrpg.com/adventures/first-party/cas-4/#16-yellow-room), qu'il évite. Il est toujours agressif et ne peut pas être raisonné. Si pas déjà Rencontré, il se trouvera dans [6\. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop).
+Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse bleue à travers chaque pièce, sauf pour la [16. Chambre Jaune](https://cairnrpg.com/adventures/first-party/cas-4/#16-yellow-room), qu'il évite. Il est toujours agressif et ne peut pas être raisonné. Si pas déjà Rencontré, il se trouvera dans [6. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop).
 
 ### Masse Titubante
 
 **9 HP, 15 FOR, 6 DEX, 12 VOL, Lianes([d8+d8](https://cairnrpg.com/adventures/first-party/cas-4/#))**
 
-- Si vaincu, il se reforme au bout de [1d4](https://cairnrpg.com/adventures/first-party/cas-4/#) heures. Seule la Fiole Violette dans le [6\. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop) peut définitivement le tuer.  
+- Si vaincu, il se reforme au bout de [1d4](https://cairnrpg.com/adventures/first-party/cas-4/#) heures. Seule la Fiole Violette dans le [6. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop) peut définitivement le tuer.  
 - Les dégâts d'armes non-tranchantes sont Atténués.  
 - **Critical Damage** : La cible devient infectée par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).
 
@@ -145,7 +145,7 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 
 ### Accès
 
-#### 1\. Le portail
+#### 1. Le portail
 
 Un **portail** en fer forgé, chargé de rouille, bloque l'accès. Des **haies** épaisses et non entretenues s’étendent depuis le portail dans toutes les directions. Une brume épaisse enveloppe les lieux, dissimulant le sol. *Ne faites pas de jet de Rencontres à cet endroit.*
 
@@ -155,13 +155,13 @@ Un **portail** en fer forgé, chargé de rouille, bloque l'accès. Des **haies**
   - De l'autre côté des grilles, la végétation est suffisamment haute pour masquer la vue depuis le sol.  
 - **Haies** : Hautes de 10 pieds, elles s'étendent sur 100 pieds chacune dans un sens avant de toues les deux partir en direction du Nord.  
   - Si le groupe suit l'une ou autre haie, il finira par se retrouver à nouveau devant le portail. Si le groupe essaie de revenir sur ses pas, le portail réapparaitra presque immédiatement. Ceci est un effet de la malédiction d'Isobel.  
-  - Grimper au sommet des haies permettra de découvrir le manoir au Nord ([3a. Entrée](https://cairnrpg.com/adventures/first-party/cas-4/#3a-entry)), ainsi qu'un batiment incendié à l'Ouest ([2\. Quartiers des domestiques](https://cairnrpg.com/adventures/first-party/cas-4/#2-servants-quarters)).  
+  - Grimper au sommet des haies permettra de découvrir le manoir au Nord ([3a. Entrée](https://cairnrpg.com/adventures/first-party/cas-4/#3a-entry)), ainsi qu'un batiment incendié à l'Ouest ([2. Quartiers des domestiques](https://cairnrpg.com/adventures/first-party/cas-4/#2-servants-quarters)).  
 - **Brume** : Une trainée file à travers le portail au Nord, puis se sépare à l'Ouest.  
-  - Un large verrou rouillé repose près du portail, dissimulé par la brume. Une clé rouge se trouve encore dans la serrure. Si la clé est retirée, elle se transforme en une flaque de liquide devenu inutile (voir Sirop de Clé dans [6\. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop)).
+  - Un large verrou rouillé repose près du portail, dissimulé par la brume. Une clé rouge se trouve encore dans la serrure. Si la clé est retirée, elle se transforme en une flaque de liquide devenu inutile (voir Sirop de Clé dans [6. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop)).
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/gate.webp)
 
-#### 2\. Quartiers des domestiques
+#### 2. Quartiers des domestiques
 
 Un petit **bâtiment** en ruines fait de bois ternis et de pierre. Le bout d'un **poêle** en fer dépasse des **décombres**. Un **chemin** étroit part du bâtiment vers le Nord.
 
@@ -171,7 +171,7 @@ Un petit **bâtiment** en ruines fait de bois ternis et de pierre. Le bout d'un 
 - **Décombres** : Des débris de maçonnerie, des cadres de lit et des effets personnels carbonisés jonchent le sol.  
   - Un morceau de miroir mural a survécu au feu, contrairement à son cadre. le revers de la vitre est anormalement phosphorescent et brille dans le noir.  
   - Un collier serti d'un rubis rouge(valeur 150po) est enfoui dans les cendres. Un cadeau de Marius à Isobel, son nom est gravé dessus. Quiconque portant le collier se rendra compte qu'ils ne pourront pas l'enlever (même par la force). Il peut seulement être retiré par quelqu’un qui a subi un tort de la part de celui qui le porte, puis l'aura pardonné.e. Si Isobel trouve le repos, le collier revient à son état normal.  
-- **Chemin** : Depuis l'arrière du bâtiment se trouve un chemin menant au croisement du [9\. Puits](https://cairnrpg.com/adventures/first-party/cas-4/#9-well) et du [10\. Outdoor Theater](https://cairnrpg.com/adventures/first-party/cas-4/#10-outdoor-theater).
+- **Chemin** : Depuis l'arrière du bâtiment se trouve un chemin menant au croisement du [9. Puits](https://cairnrpg.com/adventures/first-party/cas-4/#9-well) et du [10. Outdoor Theater](https://cairnrpg.com/adventures/first-party/cas-4/#10-outdoor-theater).
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/servants-quarters.webp)
 
@@ -183,9 +183,9 @@ Un **manoir** en disposition asymétrique à 2 étages une toiture en pente reco
 
 - **Manoir** : Des buissons denses et épineux longent le rez-de-chaussée du bâtiment, dissimulant une petite fenêtre. Au 1er étage, de grandes baies vitrées sont à peine visibles.  
   - Couper le feuillage peut être accompli en 2 tours, mais seulement au prix d’efforts importants et avec les outils appropriés.  
-  - La fenêtre donne sur la [5\. Kitchen](https://cairnrpg.com/adventures/first-party/cas-4/#5-kitchen), mais il fait trop sombre pour y voir quelque chose. Elle n'est pas fermée.  
-  - Les baies vitrées donnent sur la [12\. Dining Room](https://cairnrpg.com/adventures/first-party/cas-4/#12-dining-room). Les rideaux sont tirés.  
-  - Le [10\. Outdoor Theater](https://cairnrpg.com/adventures/first-party/cas-4/#10-outdoor-theater) et le[9\. Well](https://cairnrpg.com/adventures/first-party/cas-4/#9-well) sont visibles du côté Ouest.  
+  - La fenêtre donne sur la [5. Kitchen](https://cairnrpg.com/adventures/first-party/cas-4/#5-kitchen), mais il fait trop sombre pour y voir quelque chose. Elle n'est pas fermée.  
+  - Les baies vitrées donnent sur la [12. Dining Room](https://cairnrpg.com/adventures/first-party/cas-4/#12-dining-room). Les rideaux sont tirés.  
+  - Le [10. Outdoor Theater](https://cairnrpg.com/adventures/first-party/cas-4/#10-outdoor-theater) et le[9. Well](https://cairnrpg.com/adventures/first-party/cas-4/#9-well) sont visibles du côté Ouest.  
 - **Bois** :  Un plante grandissante pénètre le bois, le teintant en vert.  
   - Toute la surface du manoir est extrèmement glissante et presque impossible à escalader sans les outils et l'habileté appropriés.  
 - **Portes** : Fermées mais pas verrouillées. Mènent au [3b. Vestibule](#3b.-Vestibule).  
@@ -197,18 +197,18 @@ Un **manoir** en disposition asymétrique à 2 étages une toiture en pente reco
 Une petite salle d’attente richement décorée avec un **canapé** poussé contre le mur Ouest. Un unique **miroir** est installé sur le mur Est. Au Nord, un petit couloir mène à une pièce ouverte.
 
 - **Canapé** : Le cuir est craquelé. Une pâle mousse bleutée pousse à travers les trous.  
-  - **Mousse** : Créée par Marius lorsqu'il est allé à la [4\. Ballroom](https://cairnrpg.com/adventures/first-party/cas-4/#4-ballroom).  
+  - **Mousse** : Créée par Marius lorsqu'il est allé à la [4. Ballroom](https://cairnrpg.com/adventures/first-party/cas-4/#4-ballroom).  
 - **Miroir** : Une petite fissure dans le coin altère le verre . La brèche qu’elle crée luit faiblement, mais seulement dans l’obscurité totale.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/entry.webp)
 
-#### 4\. Salle de bal
+#### 4. Salle de bal
 
 Une somptueuse salle de balle faisant aussi office de salle d'audience, dotée d'un sol en **mosaique**. D'épaisses **lianes** bleues pendent d'un lustre suspendu au centre de la pièce. De la **mousse** bleue pousse entre les carreaux près de la sortie Ouest. Du côté Est un petit escalier mène à l'étage.
 
 - **Mosaique** : Représente une foule nombreuse regardant une danceuse (Luciana) au bras tendu. Un véritable diamant se trouve sur l'un de ses doigts. Il faudra un tour pour le déloger, il vaut 250 po.  
 - **Vines** : un Creeper dissimulé. Attaque toute créature traversant la pièce (jet de sauvegarde de DEX pour l'éviter).  
-- **Mousse** : Vaguement en forme de pas. Produit par Marius lorsqu'il s'est déplacé vers la [5\. Kitchen](https://cairnrpg.com/adventures/first-party/cas-4/#5-kitchen).
+- **Mousse** : Vaguement en forme de pas. Produit par Marius lorsqu'il s'est déplacé vers la [5. Kitchen](https://cairnrpg.com/adventures/first-party/cas-4/#5-kitchen).
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/ballroom.webp)
 
@@ -219,26 +219,26 @@ Une somptueuse salle de balle faisant aussi office de salle d'audience, dotée d
 - Inerte jusqu'à ce qu'un créature s'en approches. Déteste le feu.  
 - **Drain** : Une fois attrapée, la victime perd 4 FOR par round jusqu'à être vidée de son sang. Le Creeper est sans défense lorsqu'il se nourrit.
 
-#### 5\. Cuisine
+#### 5. Cuisine
 
 Des couverts rouillés sont éparpillés sur une table recouverte de mousse. Un petit **monticule** de végétation pousse entre un table et une évier en métal. De la mousse bleue pousse par les fissures dans le sol. Un **miroir** de forme rectangulaire est installé au plafond. Une **fenêtre** située du côté Sud de la pièce est obscurcie par la végétation envahissante.
 
 - **Monticule** : De la mousse épaisse pousse sur un cadavre humain.  
-  - Le corps appartient au cuisinier, Jacob. Des marques de succion sont visibles sur ses jambes, il a été mortellement blessé par les lianes dans la [4\. Ballroom](https://cairnrpg.com/adventures/first-party/cas-4/#4-ballroom) avant de ramper jusqu'à la cuisine et de rendre l'âme.  
+  - Le corps appartient au cuisinier, Jacob. Des marques de succion sont visibles sur ses jambes, il a été mortellement blessé par les lianes dans la [4. Ballroom](https://cairnrpg.com/adventures/first-party/cas-4/#4-ballroom) avant de ramper jusqu'à la cuisine et de rendre l'âme.  
 - **Mousse** : Vaguement en forme de pas.  
-  - Produite par Marius lorsqu'il s'est déplacé depuis la [4\. Ballroom](https://cairnrpg.com/adventures/first-party/cas-4/#4-ballroom), est passé par la [kitchen](https://cairnrpg.com/adventures/first-party/cas-4/#5-kitchen) pour aller vers le [6\. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop).  
-- **Miroir** : Fonctionne comme n’importe quel autre miroir du manoir, offrant une "vue du dessus" de la pièce quand utilisé depuis la [18\. Private Chambers](https://cairnrpg.com/adventures/first-party/cas-4/#18-private-chambers).  
+  - Produite par Marius lorsqu'il s'est déplacé depuis la [4. Ballroom](https://cairnrpg.com/adventures/first-party/cas-4/#4-ballroom), est passé par la [kitchen](https://cairnrpg.com/adventures/first-party/cas-4/#5-kitchen) pour aller vers le [6. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop).  
+- **Miroir** : Fonctionne comme n’importe quel autre miroir du manoir, offrant une "vue du dessus" de la pièce quand utilisé depuis la [18. Private Chambers](https://cairnrpg.com/adventures/first-party/cas-4/#18-private-chambers).  
 - **Fenêtre** : Obstruée par la végétation (see [3a. Entry](https://cairnrpg.com/adventures/first-party/cas-4/#3a-entry)). N'est pas verrouillée.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/kitchen.webp)
 
-#### 6\. Atelier
+#### 6. Atelier
 
-Un grand **meuble** pourvu de 30 petits tiroirs se trouve du côté Ouest. Un logn établi se trouve au centre de la pièce, avec une large **cuve** posée dessus. De la mousse pousse dans les fissures, à partir de l'entrée Sud et s'arrête jusqu'à \*\*l'établi \*\*. Il n'y a pas de miroirs dans la pièce. S'il n'a pas encore été croisé, Marius se trouvera ici.
+Un grand **meuble** pourvu de 30 petits tiroirs se trouve du côté Ouest. Un logn établi se trouve au centre de la pièce, avec une large **cuve** posée dessus. De la mousse pousse dans les fissures, à partir de l'entrée Sud et s'arrête jusqu'à **l'établi **. Il n'y a pas de miroirs dans la pièce. S'il n'a pas encore été croisé, Marius se trouvera ici.
 
-- **Meuble** : Chaque tiroir contient un échantillon d'herbe ou de plante, chaque tiroir prend un tour pour être examiné (voir le tableau plus bas). Seul.e un.e experte en botanique pourrait tout identifier. Pour chercher une plante spécifique, lancer un Dé de Destin\!  
+- **Meuble** : Chaque tiroir contient un échantillon d'herbe ou de plante, chaque tiroir prend un tour pour être examiné (voir le tableau plus bas). Seul.e un.e experte en botanique pourrait tout identifier. Pour chercher une plante spécifique, lancer un Dé de Destin!  
 - **Établi** : Surmonté d’une cuve et d’un ensemble de tubes, ainsi que d’un journal.  
-  - **Journal** : Rempli d’une écriture difficile à lire et d’un jargon botanique précis. Décrit les recherches d'un M. Lockwood, essayant de trouver un remède à la maladie de sa femme (le “Mal Bleu”). La suite du texte détaille un traitement définitif que tout Greenwise peut mettre en œuvre, à condition qu’un parent en bonne santé de la personne infectée soit disposé.e. Vers la fin on distingue une phrase tout à fait lisible: “Commence les essais sur Anna demain, par précaution. Le traitement est enfin à portée de main\!” Un appendice écrit au dos du journal décrit le fonctionnement de chaque potion posée au-dessus de la cuve, mais seulement leurs effets. Aucune couleur n’est indiquée.  
+  - **Journal** : Rempli d’une écriture difficile à lire et d’un jargon botanique précis. Décrit les recherches d'un M. Lockwood, essayant de trouver un remède à la maladie de sa femme (le “Mal Bleu”). La suite du texte détaille un traitement définitif que tout Greenwise peut mettre en œuvre, à condition qu’un parent en bonne santé de la personne infectée soit disposé.e. Vers la fin on distingue une phrase tout à fait lisible: “Commence les essais sur Anna demain, par précaution. Le traitement est enfin à portée de main!” Un appendice écrit au dos du journal décrit le fonctionnement de chaque potion posée au-dessus de la cuve, mais seulement leurs effets. Aucune couleur n’est indiquée.  
 - **Cuve** : Vide. Au-dessus se trouve un support avec quatre flacons contenant des liquides de couleurs variées.  
 - **Rouge** : Sirop de Clé. Verser dans n'improte quelle serrure; une clé à usage unique se formera dedans. 3 usages.  
 - **Noire** : Ichor du Néant. Buvez et tous ceux qui vous connaissaient vous oublieront pour toujours et ignoreront toute référence à votre personne, parlée ou écrite. 1 usage.  
@@ -256,41 +256,41 @@ Un grand **meuble** pourvu de 30 petits tiroirs se trouve du côté Ouest. Un lo
 | 5 | Essence d'aile de chauve-souris | Met en lévitation incontrôlée pendant [1d4](https://cairnrpg.com/adventures/first-party/cas-4/#) minutes. Jet de sauvegarde DEX pour éviter la cata. 1 utilisation. |
 | 6 | Digital Séchée | Comprendre, pendant une heure, les grognements et pépiements du Bois. Doit être fumée (provoque l'Épuisement). 1 utilisation. |
 
-\[finir tableau\]
+[finir tableau]
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/workshop.webp)
 
-#### 7\. Serre
+#### 7. Serre
 
 Les panneaux de verre de la toiture sont pour la plupart intacts, projetant un kaléidoscope de lumière sur les **plantes** envahissantes qui poussent ici. Un voile en peau de mouton recouvre une petite surface, et une **odeur** rappelant du fumier se manifeste aux alentours. Une petite **fenêtre** est ouverte du côté Est.
 
 - **Plantes** : Des variétés atypiques. Certaines réagissent au toucher ; d’autres émettent des gloussements.  
 - **Voile**: Dissimulée en dessous se trouve de la Pourriture verte, un champignon bioluminescent. Gardé en vie, il peut produire une lumière équivalente à celle d’une bougie, jusqu’à ce qu’il soit exposé à la lumière du soleil.  
 - **Odeur** : Provient d'un petite fleur jaune à feuilles violettes appelée Pâquerette Rêveuse. Rester ici plus d'un Cycle D'Exploration de Donjon provoquera une crise Panique, la victime étant en proie à d’horribles hallucinations.  
-- **Fenêtre** : Offre une vue en biais de la [16\. Yellow Room](#16.-chambre-jaune). On peut y voir une corde faites de draps.
+- **Fenêtre** : Offre une vue en biais de la [16. Yellow Room](#16.-chambre-jaune). On peut y voir une corde faites de draps.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/greenhouse.webp)
 
-#### 8\. Couloir ouest
+#### 8. Couloir ouest
 
 Des mur en bois étroits et un plancher de bois nu. Des **miroirs** sont disposés aux deux extrémités du couloir, qui forme un angle vif à mi-parcours. Du côté Est, un escalier mène à l'étage.
 
 - **Miroirs** : Le virage à mi-parcours fait office d'angle mort. Le plancher est anormalement rayé à cet endroit.  
   - Les domestiques se réunissaient ici afin de ne pas être entendus par Marius.
 
-#### 9\. Puits
+#### 9. Puits
 
 Des **Arbres** bordent les côtés nord et Est d'un espace extérieur. En son centre se trouve un **puits**. Au Nord on peut voir un chemin à travers un épais taillis.
 
 - **Arbres** : Sont épais et plantés serrés. Une personne de forte corpulence aurait du mal à passer à travers.  
-  - En traversant les arbres du côté Est, on découvre un accès menant à la corde de draps pendant d'une fenêtre de la [16\. Yellow Room](https://cairnrpg.com/adventures/first-party/cas-4/#16-yellow-room) .  
+  - En traversant les arbres du côté Est, on découvre un accès menant à la corde de draps pendant d'une fenêtre de la [16. Yellow Room](https://cairnrpg.com/adventures/first-party/cas-4/#16-yellow-room) .  
 - **Puits** : Un seau accroché à une corde peut être utilisé.  
   - Boire de l'eau du puits provoque des visions intenses suivies d'une forte gueule de bois pendant [d4](https://cairnrpg.com/adventures/first-party/cas-4/#) heures. (Les attaques sont Atténuées et le buveur Affaibli.) Iels seront également contaminé par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).  
   - Les visions se manifestent d’abord par un sentiment confus de colère intense et de perte, suivi de l’image du visage d’une jeune femme, de draps ensanglantés et de la couleur bleue.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/well.webp)
 
-#### 10\. Théâtre Extérieur
+#### 10. Théâtre Extérieur
 
 Une estrade en bois est érigée sur le côté Ouest, devant un bosquet dense d’arbres moussus. Un rideau rouge est tiré sur la scène, suspendu à une corde tendue entre deux grand poteaux, et un grand **prisme** incliné est accroché à un poteau en bois près de l’entrée à l'Est. Un demi-cercle de **chaises** en bois finement ouvragé est formé autour de l'estrade.
 
@@ -304,18 +304,18 @@ Une estrade en bois est érigée sur le côté Ouest, devant un bosquet dense d�
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/theater.webp)
 
-#### 11\. Clairiere {#11.-clairiere}
+#### 11. Clairiere
 
 Un petit **Espace** dégagé parmi les arbres. Au centre se trouve un grand monticule recouvert de **pierres**.
 
 - **Espace** : Aucune mousse ne pousse ici, même pas sur les pierres.  
 - **Pierres** : Lourdes, elles requièrent 3 tours pour être dégagées. Sous les pierres on trouve une terre noircie.  
   - Sous ces pierres se trouve une tombe improvisée pour Isobel. Son cadavre est encore frais, comme elle avait eu la gorge tranchée il y a quelques heures à peine. On distingue un tatouage discret du [Corbeau Blanc](https://cairnrpg.com/adventures/first-party/cas-4/#white-ravens) sur son cou.  
-  - La terre est boueuse et à vif, car les énergies nécrotiques d'Isobel se sont infiltrées dans la nappe phréatique et dans l'eau du [9\. Well](https://cairnrpg.com/adventures/first-party/cas-4/#9-well).
+  - La terre est boueuse et à vif, car les énergies nécrotiques d'Isobel se sont infiltrées dans la nappe phréatique et dans l'eau du [9. Well](https://cairnrpg.com/adventures/first-party/cas-4/#9-well).
 
 ### 1er Étage
 
-#### 12\. Salle à manger
+#### 12. Salle à manger
 
 Une immense table en bois entourée de chaises occupe la pièce. Six petites **sculptures** sont disposées dans des alcôves le long du mur Est. Deux uniques miroirs sont installés sur les murs Est et Ouest. Un **chandelier** vide descend du plafond. Des **baies** vitrées font face au Sud. Un escalier descend vers l'Ouest.
 
@@ -325,18 +325,18 @@ Une immense table en bois entourée de chaises occupe la pièce. Six petites **s
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/dining-room.webp)
 
-#### 13\. Galerie de pièces
+#### 13. Galerie de pièces
 
 Des passages ramifiés en bois pourri, d’un jaune criard. Une mousse bleutée recouvre presque tout le sol. Du côté Est se trouvent deux pièces, l'une avec une **porte rouge** et un balai à l'envers posé contre cette dernière et l'autre avec une **porte bleue**.  Du côté Ouest se trouve une pièce avec une **porte jaune**.
 
-- **Mousse** : Seul le sol à proximité de la [16\. Yellow Room](https://cairnrpg.com/adventures/first-party/cas-4/#16-yellow-room) n'est pas recouvert de mousse.  
-- **Porte Rouge** : Verrouillée mais facile à forcer. Le balai peut être mis de côté sans problème (voir [Cauchemora](https://cairnrpg.com/adventures/first-party/cas-4/#cauchemora)). Voir [14\. Red Room](https://cairnrpg.com/adventures/first-party/cas-4/#14-red-room).  
-- **Porte Bleue** : N'est pas fermée à clé. Voir[15\. Blue Room](https://cairnrpg.com/adventures/first-party/cas-4/#15-blue-room).  
-- **Porte Jaune** : Verrouillée mais facile à forcer. Voir[16\. Yellow Room](https://cairnrpg.com/adventures/first-party/cas-4/#16-yellow-room).
+- **Mousse** : Seul le sol à proximité de la [16. Yellow Room](https://cairnrpg.com/adventures/first-party/cas-4/#16-yellow-room) n'est pas recouvert de mousse.  
+- **Porte Rouge** : Verrouillée mais facile à forcer. Le balai peut être mis de côté sans problème (voir [Cauchemora](https://cairnrpg.com/adventures/first-party/cas-4/#cauchemora)). Voir [14. Red Room](https://cairnrpg.com/adventures/first-party/cas-4/#14-red-room).  
+- **Porte Bleue** : N'est pas fermée à clé. Voir[15. Blue Room](https://cairnrpg.com/adventures/first-party/cas-4/#15-blue-room).  
+- **Porte Jaune** : Verrouillée mais facile à forcer. Voir[16. Yellow Room](https://cairnrpg.com/adventures/first-party/cas-4/#16-yellow-room).
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/hall-of-rooms.webp)
 
-#### 14\. Pièce Rouge
+#### 14. Pièce Rouge
 
 L'**air** y est frais malgré le manque de ventilation. Des **cabinets** en bois se trouvent sur le côté Est, à l'opposé se trouve une commode avec des **figurines** disposées dessus.
 
@@ -357,35 +357,35 @@ Lorsqu’ils sont en colère, ils peuvent provoquer de terribles cauchemars et d
 
 Mora n'est pas son nom, simplement un surnom qu'Anna lui a donné. Elle l'aime cependant bien. Elle répondra à la gentillesse par la gentillesse.
 
-Quand Luciana tomba malade, Mora fit un rituel sur Anna qui éloigna le Mal Bleu. À mesure que Marius devenait de plus en plus paranoïaque, il commençait à suspecter que Mora travaillait contre lui. En effet elle fournit à Anna le Sirop de Clé et l'Ichor du Néant ([6\. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop)) pour échapper à son père. En représailles Marius enferma Mora dans la [14\. Red Room](https://cairnrpg.com/adventures/first-party/cas-4/#14-red-room) en plaçant un balais à l'envers contre la porte. Si le balai est bougé, le sort retenant Mora dans la pièce sera brisé et elle sera libre de se déplacer dans le domaine.
+Quand Luciana tomba malade, Mora fit un rituel sur Anna qui éloigna le Mal Bleu. À mesure que Marius devenait de plus en plus paranoïaque, il commençait à suspecter que Mora travaillait contre lui. En effet elle fournit à Anna le Sirop de Clé et l'Ichor du Néant ([6. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop)) pour échapper à son père. En représailles Marius enferma Mora dans la [14. Red Room](https://cairnrpg.com/adventures/first-party/cas-4/#14-red-room) en plaçant un balais à l'envers contre la porte. Si le balai est bougé, le sort retenant Mora dans la pièce sera brisé et elle sera libre de se déplacer dans le domaine.
 
 Mora dévoilera avec joie tout ce qu’elle sait sur l’histoire de la famille Lockwood, en échange d’un peu de nourriture (surtout du foin). En tant qu'Esprit, elle n'est pas affectée par les effets de l'Ichor du Néant et sait tout ce qu'il s'est passé entre Marius, Isobel, Anna et Luciana. Bien qu'elle sache comment mettre fin à la malédiciton d'Isobel et informera bien volontiers les personnages qui se montreront gentil avec elle, elle n'agira pas contre Marius. Une fois libre elle ne souhaitera rien d'autre que de quitter le manoir maudit et retrouver Annafranax aussi vite que possible.
 
-#### 15\. Chambre Bleue
+#### 15. Chambre Bleue
 
 Sa porte est peinte en bleu. Un simple **lit** est disposé au centre de la pièce perpendiculairement à une petite **commode**. Un grand **miroir** est posé contre le mur du Nord.
 
 - **Lit** : Les draps ont l'air propres. Le matelas dessous porte des tâches de sang.  
-  - Isobel a été poignardée à mort par Marius, qui a lavé les draps (mais pas le matelas) avant d'aller cacher l'arme du crime dans les toilettes de la ([14\. Red Room](https://cairnrpg.com/adventures/first-party/cas-4/#14-red-room)).  
+  - Isobel a été poignardée à mort par Marius, qui a lavé les draps (mais pas le matelas) avant d'aller cacher l'arme du crime dans les toilettes de la ([14. Red Room](https://cairnrpg.com/adventures/first-party/cas-4/#14-red-room)).  
 - **Commodes** : À l'intérieur des drap et des taies d'oreiller soigneusement pliés.  
 - **Mirror** : Contrairement à tous les autres miroirs du manoir celui-ci est banal.  
-  - Il est fixé au mur ; au prix d’un effort considérable (assez pour déclencher un Évènement de Donjon), le cadre finira par pivoter, révélant un tunnel secret vers la [18\. Private Chambers](https://cairnrpg.com/adventures/first-party/cas-4/#18-private-chambers).
+  - Il est fixé au mur ; au prix d’un effort considérable (assez pour déclencher un Évènement de Donjon), le cadre finira par pivoter, révélant un tunnel secret vers la [18. Private Chambers](https://cairnrpg.com/adventures/first-party/cas-4/#18-private-chambers).
 
-#### 16\. Chambre Jaune {#16.-chambre-jaune}
+#### 16. Chambre Jaune {#16.-chambre-jaune}
 
 Sa porte est peinte en jaune. Un **lit** sans draps se trouve près d'une **fenêtre** ouverte côté Ouest, à proximité repose une **maison de poupée** sur une table. Des jouets d’enfants, marqués par les intempéries, sont éparpillés sur le **plancher** en bois.
 
 - **Lit** : Les draps sont manquants.  
   - Un petit carnet est coincé entre le matelas et les lattes. Écrit par une fille de 13 ans, le journal relate le déménagement de la famille dans le manoir ainsi que les premiers stades de la maladie de sa mère. Il se termine par des remarques sur le comportement étrange de son père. La dernière page dit: "*J'ai peur. Mère va m'aider à partir bientôt. Elle me dit de courir aussi loin que je le peux, et une fois libre, de boire le sirop noir pris dans le laboratoire de Père*”. La page est signée : *Annafranax Milo Lockwood*.  
 - **Fenêtre** : Un auvent incurvé protège la chambre des intempéries.  
-  - Donne sur la [7.Serre](https://cairnrpg.com/adventures/first-party/cas-4/#7-gretenhouse) et le bosquet d'arbres adjacent au [9\. Well](https://cairnrpg.com/adventures/first-party/cas-4/#9-well).  
+  - Donne sur la [7.Serre](https://cairnrpg.com/adventures/first-party/cas-4/#7-gretenhouse) et le bosquet d'arbres adjacent au [9. Well](https://cairnrpg.com/adventures/first-party/cas-4/#9-well).  
   - Une corde faite de draps moisis pend du rebord de la fenêtre jusqu'au sol. Elle se rompra si un.e adulte tente de s'y accrocher.  
-- **Maison de poupée** : Une réplique fidèle du manoir. Le passage secret reliant la [15\. Blue Room](https://cairnrpg.com/adventures/first-party/cas-4/#15-blue-room) à la [18\. Private Chambers](https://cairnrpg.com/adventures/first-party/cas-4/#18-private-chambers) y est clairement visible.  
+- **Maison de poupée** : Une réplique fidèle du manoir. Le passage secret reliant la [15. Blue Room](https://cairnrpg.com/adventures/first-party/cas-4/#15-blue-room) à la [18. Private Chambers](https://cairnrpg.com/adventures/first-party/cas-4/#18-private-chambers) y est clairement visible.  
 - **Plancher** : Dépourvu de toute contamination. Sous aucune circonstance Marius n'entrera dans la pièce et ignorera quiconque y entrera.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/yellow-room.webp)
 
-#### 17\. Bibliothèque
+#### 17. Bibliothèque
 
 Des **étagères** vermoulues forment des sentiers sinueux à travers la pièce. Un **bureau** est disposé le long du mur Ouest, paré d’un set de plumes et de **bouteilles** d'encre.
 
@@ -403,26 +403,26 @@ Des **étagères** vermoulues forment des sentiers sinueux à travers la pièce.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/library.webp)
 
-#### 18\. Private Chambers
+#### 18. Private Chambers
 
-Un lit occupe le centre de la pièce, une \*\*forme \*\* humanoide enfoncée en son milieu. À l'Est un petit **bureau** et une chaise sont placés sous une fenêtre dont les rideaux sont tirés. Un long miroir est accroché au mur Sud, et une étagère suspendue est chargée d’effets personnels.
+Un lit occupe le centre de la pièce, une **forme ** humanoide enfoncée en son milieu. À l'Est un petit **bureau** et une chaise sont placés sous une fenêtre dont les rideaux sont tirés. Un long miroir est accroché au mur Sud, et une étagère suspendue est chargée d’effets personnels.
 
 - **Forme** : Le cadavre déséché d'une femme repose sur le lit,  un morceau de verre dans une main.  
-  - Cette femme est Luciana. Elle s’est ouvert les poignets avec un éclat de verre, afin d’échapper à la souffrance d’oublier sa propre fille sous l’effet de l’Ichor du Néant. ([6\. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop)). Son cadavre est un amalgame de chair en décomposition et de résidus végétaux.  
-- **Bureau** : Contient des vêtements en décomposition et des effets personnels sans intérêt. Quelques objets de valeur se démarquent. \-Un pendentif représentant les armoiries de la famille Milo (un Ouroboros vert sur un champ rouge). Luciana le portait le jour de son mariage avec Marius.  
+  - Cette femme est Luciana. Elle s’est ouvert les poignets avec un éclat de verre, afin d’échapper à la souffrance d’oublier sa propre fille sous l’effet de l’Ichor du Néant. ([6. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop)). Son cadavre est un amalgame de chair en décomposition et de résidus végétaux.  
+- **Bureau** : Contient des vêtements en décomposition et des effets personnels sans intérêt. Quelques objets de valeur se démarquent. -Un pendentif représentant les armoiries de la famille Milo (un Ouroboros vert sur un champ rouge). Luciana le portait le jour de son mariage avec Marius.  
   - Un collier ornementé estimé à 532po.  
 - **Fenêtre** : Opening the blinds displays a view of the east hedges, surrounded by forest. It is a two-story drop to the ground, cushioned only by thorny overgrowth.  
 - **Miroir** : Celui-ci ne reflète rien. Une partie du verre semble manquer.  
   - Si le morceau de verre tenu par Luciana est replacé sur le miroir, i lse réparera et affichera une vue en direct de n’importe quelle pièce du manoir, même si cette dernière se trouve dans une complète obscurité.  
 - **Étagère** : Essentiellement des petits objets sans valeur, ainsi qu’une illustration de Marius.  
-  - SOus l'étagère se trouve un bouton qui active le passage secret vers la [15\. Blue Room](https://cairnrpg.com/adventures/first-party/cas-4/#15-blue-room), qui s'ouvre en pivotant.  
+  - SOus l'étagère se trouve un bouton qui active le passage secret vers la [15. Blue Room](https://cairnrpg.com/adventures/first-party/cas-4/#15-blue-room), qui s'ouvre en pivotant.  
   - Anna se servait de ce passage pour rendre visite à sa mère après que Marius eut enfermé Luciana.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/private-chambers.webp)
 
 ### Cycle d'Exploration de Donjon
 
-- Each turn, a PC may move \~40ft and take one action. Using the action to move instead allows up to 120ft, but risks a [Dungeon Events roll](https://cairnrpg.com/adventures/first-party/cas-4/#dungeon-events) (see below).  
+- Each turn, a PC may move ~40ft and take one action. Using the action to move instead allows up to 120ft, but risks a [Dungeon Events roll](https://cairnrpg.com/adventures/first-party/cas-4/#dungeon-events) (see below).  
 - A Dungeon Events roll is triggered when the party spends more than one turn in a room, moves haphazardly, enters a new area or level, or creates a disturbance.  
 - Actions are any non-passive activities: searching, forcing doors, listening, disarming traps, combat, spellcasting, resting, etc. Loud or noticeable actions may trigger an encounter. Some actions take multiple turns to complete.  
 - Searching one object or location exhaustively takes one turn and reveals hidden treasure, traps, or secret doors. Larger or more complex areas may take longer. Searching first is safer, but costs time.  
@@ -434,7 +434,7 @@ Un lit occupe le centre de la pièce, une \*\*forme \*\* humanoide enfoncée en 
 | :---- | :---- | :---- |
 | **1** | **Rencontres** | Faire un jet avec la [Reactions Table](#Table-de-Réactions). Possible **hostilité**. |
 | **2** | **Signe** | Un indice, une trace, une piste, un repaire abandonné, une odeur, une victime, etc., sont découverts. |
-| **3** | **Environnement** | Possibilité de faire un jet avec la \[Table d'Environnement\]. |
+| **3** | **Environnement** | Possibilité de faire un jet avec la [Table d'Environnement]. |
 | **4** | **Perte** | Les torches sont éteintes, un sort en cours s’estompe, etc. Le groupe devra régler ce problème avant de poursuivre. |
 | **5** | **Fatigue** | Le groupe doit se reposer (déclenchant un autre jet avec cette table), ajouter une **Fatigue**, ou manger une ration. |
 | **6** | **Calme** | Le groupe est laissé tranquille (et en sécurité) pour le moment. |
@@ -449,7 +449,7 @@ Lorsque les PJ rencontrent un PNJ dont la réaction vis-à-vis du groupe n’est
 
 ## Carte du Manoir Lockwood & Évènements de Donjon
 
-\[Ajouter Carte Soimple traduite dans dossier\]
+[Ajouter Carte Soimple traduite dans dossier]
 
 | [d4](https://cairnrpg.com/adventures/first-party/cas-4/#) | Rencontres |  |
 | :---- | :---- | :---- |
@@ -471,7 +471,7 @@ Lorsque les PJ rencontrent un PNJ dont la réaction vis-à-vis du groupe n’est
 
 ### 4ème de couverture
 
-*The Forgetting du Manoir Lockwood* est d’une aventure d’horreur gothique se déroulant dans un domaine où les crimes de ses anciens occupants perdurent, même après la mort \!
+*The Forgetting du Manoir Lockwood* est d’une aventure d’horreur gothique se déroulant dans un domaine où les crimes de ses anciens occupants perdurent, même après la mort !
 
 S’inspirant de la Winchester Mystery House, de Swamp Thing et du folklore slave, cette aventure promet une expérience envoûtante même pour les personnages les plus aguerris, qui devront faire appel à toute leur intelligence, leur attirail et leur ingéniosité pour survivre.
 
