@@ -256,7 +256,7 @@ Des couverts rouillés sont éparpillés sur une table recouverte de mousse. Un 
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/cuisine.webp)
 
-#### 6. Atelier
+#### 6. Laboratoire
 
 Un grand **meuble** pourvu de 30 petits tiroirs se trouve du côté Ouest. Un logn établi se trouve au centre de la pièce, avec une large **cuve** posée dessus. De la mousse pousse dans les fissures, à partir de l'entrée Sud et s'arrête jusqu'à **l'établi **. Il n'y a pas de miroirs dans la pièce. S'il n'a pas encore été croisé, Marius se trouvera ici.
 
@@ -280,7 +280,6 @@ Un grand **meuble** pourvu de 30 petits tiroirs se trouve du côté Ouest. Un lo
 | 5 | Essence d'aile de chauve-souris | Met en lévitation incontrôlée pendant [1d4] minutes. Jet de sauvegarde DEX pour éviter la cata. 1 utilisation. |
 | 6 | Digital Séchée | Comprendre, pendant une heure, les grognements et pépiements du Bois. Doit être fumée (provoque l'Épuisement). 1 utilisation. |
 
-[finir tableau]
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/laboratoire.webp)
 
@@ -291,7 +290,7 @@ Les panneaux de verre de la toiture sont pour la plupart intacts, projetant un k
 - **Plantes** : Des variétés atypiques. Certaines réagissent au toucher ; d’autres émettent des gloussements.  
 - **Voile**: Dissimulée en dessous se trouve de la Pourriture verte, un champignon bioluminescent. Gardé en vie, il peut produire une lumière équivalente à celle d’une bougie, jusqu’à ce qu’il soit exposé à la lumière du soleil.  
 - **Odeur** : Provient d'un petite fleur jaune à feuilles violettes appelée Pâquerette Rêveuse. Rester ici plus d'un Cycle D'Exploration de Donjon provoquera une crise Panique, la victime étant en proie à d’horribles hallucinations.  
-- **Fenêtre** : Offre une vue en biais de la [16. Yellow Room](#16.-chambre-jaune). On peut y voir une corde faites de draps.
+- **Fenêtre** : Offre une vue en biais de la [16. Pièce Jaune](#16.-pièce-jaune). On peut y voir une corde faites de draps.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/greenhouse.webp)
 
@@ -395,7 +394,7 @@ Sa porte est peinte en bleu. Un simple **lit** est disposé au centre de la piè
 - **Mirror** : Contrairement à tous les autres miroirs du manoir celui-ci est banal.  
   - Il est fixé au mur ; au prix d’un effort considérable (assez pour déclencher un Évènement de Donjon), le cadre finira par pivoter, révélant un tunnel secret vers la [18. Chambre Principale](#18-chambre-principale).
 
-#### 16. Chambre Jaune {#16.-chambre-jaune}
+#### 16. Chambre Jaune {#16.-pièce-jaune}
 
 Sa porte est peinte en jaune. Un **lit** sans draps se trouve près d'une **fenêtre** ouverte côté Ouest, à proximité repose une **maison de poupée** sur une table. Des jouets d’enfants, marqués par les intempéries, sont éparpillés sur le **plancher** en bois.
 
