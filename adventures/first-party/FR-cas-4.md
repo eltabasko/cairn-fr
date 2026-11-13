@@ -61,13 +61,13 @@ Avec le temps, la propriété tomba en ruine, les haies délaissées retrouvère
 
 ### Terminer l'aventure
 
-Enterrée sous le tas de rochers dans la [11. CLairière](#11-clairière), la frêle silhouette d’Isobel contamine en permanence le réseau d’eau du manoir.([9. Puits](#9-puits)). Pour briser la malédiction, son nom doit être prononcé à voix haute au-dessus de son corps enterré. Si laissée irrésolue la malédiction d'Isobel continuera à se propager dans la Forêt et les cours d'eau alentour, jusqu'à atteindre la région.
+Enterrée sous le tas de rochers dans la [11. Clairière](#11-clairière), la frêle silhouette d’Isobel contamine en permanence le réseau d’eau du manoir.([9. Puits](#9-puits)). Pour briser la malédiction, son nom doit être prononcé à voix haute au-dessus de son corps enterré. Si laissée irrésolue la malédiction d'Isobel continuera à se propager dans la Forêt et les cours d'eau alentour, jusqu'à atteindre la région.
 
 ![Portraits](https://cairnrpg.com/adventures/first-party/img/cas-4/portraits.webp)
 
 ## Informations importantes
 
-Il est recommandé de commencer l'aventure à l'extérieur du manoir ([1. Portail](#1-le-portail). Lancez un Dé de Destin pour déterminer le temps qu'il fait ainsi que l'heure à laquelle le groupe arrive. Faites un jet de Réaction pour les créatures rencontrées pendant l'aventure, sauf pour [Isobel](#isobel) et [Marius](#marius).
+Il est recommandé de commencer l'aventure à l'extérieur du manoir ([1. Portail](#1-portail). Lancez un Dé de Destin pour déterminer le temps qu'il fait ainsi que l'heure à laquelle le groupe arrive. Faites un jet de Réaction pour les créatures rencontrées pendant l'aventure, sauf pour [Isobel](#isobel) et [Marius](#marius).
 
 ### Détails Sensoriels
 
@@ -179,7 +179,7 @@ Un **portail** en fer forgé, chargé de rouille, bloque l'accès. Des **haies**
   - De l'autre côté des grilles, la végétation est suffisamment haute pour masquer la vue depuis le sol.  
 - **Haies** : Hautes de 10 pieds, elles s'étendent sur 100 pieds chacune dans un sens avant de toues les deux partir en direction du Nord.  
   - Si le groupe suit l'une ou autre haie, il finira par se retrouver à nouveau devant le portail. Si le groupe essaie de revenir sur ses pas, le portail réapparaitra presque immédiatement. Ceci est un effet de la malédiction d'Isobel.  
-  - Grimper au sommet des haies permettra de découvrir le manoir au Nord ([3a. Entrée](#3a-entrée)), ainsi qu'un bâtiment brûlé à l'Ouest ([2. Logement des domestiques](#logement-des-domestiques)).  
+  - Grimper au sommet des haies permettra de découvrir le manoir au Nord ([3a. Entrée](#3a-entrée)), ainsi qu'un bâtiment brûlé à l'Ouest ([2. Logement des domestiques](#2-logement-des-domestiques)).  
 - **Brume** : Une trainée file à travers le portail au Nord, puis se sépare à l'Ouest.  
   - Un grand verrou rouillé repose près du portail, dissimulé par la brume. Une clé rouge se trouve encore dans la serrure. Si la clé est retirée, elle fond en une flaque devenu inutile (voir Sirop de Clé dans [6. Laboratoire](#6-laboratoire)).
 
@@ -290,7 +290,7 @@ Les panneaux de verre de la toiture sont pour la plupart intacts, projetant un k
 - **Plantes** : Des variétés atypiques. Certaines réagissent au toucher ; d’autres émettent des gloussements.  
 - **Voile**: Dissimulée en dessous se trouve de la Pourriture verte, un champignon bioluminescent. Gardé en vie, il peut produire une lumière équivalente à celle d’une bougie, jusqu’à ce qu’il soit exposé à la lumière du soleil.  
 - **Odeur** : Provient d'un petite fleur jaune à feuilles violettes appelée Pâquerette Rêveuse. Rester ici plus d'un Cycle D'Exploration de Donjon provoquera une crise Panique, la victime étant en proie à d’horribles hallucinations.  
-- **Fenêtre** : Offre une vue en biais de la [16. Pièce Jaune](#16.-piece-jaune). On peut y voir une corde faites de draps.
+- **Fenêtre** : Offre une vue en biais de la [16. Chambre Jaune](#16.-piece-jaune). On peut y voir une corde faites de draps.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/greenhouse.webp)
 
@@ -306,7 +306,7 @@ Des mur en bois étroits et un plancher de bois nu. Des **miroirs** sont dispos�
 Des **Arbres** bordent les côtés nord et Est d'un espace extérieur. En son centre se trouve un **puits**. Au Nord on peut voir un chemin à travers un épais taillis.
 
 - **Arbres** : Sont épais et plantés serrés. Une personne de forte corpulence aurait du mal à passer à travers.  
-  - En traversant les arbres du côté Est, on découvre un accès menant à la corde de draps pendant d'une fenêtre de la [16. Pièce Jaune](16-pièce-jaune).  
+  - En traversant les arbres du côté Est, on découvre un accès menant à la corde de draps pendant d'une fenêtre de la [16. Chambre Jaune](#16-chambre-jaune).  
 - **Puits** : Un seau accroché à une corde peut être utilisé.  
   - Boire de l'eau du puits provoque des visions intenses suivies d'une forte gueule de bois pendant d4 heures. (Les attaques sont Atténuées et le buveur Affaibli.) Iels seront également contaminé par le [Mal Bleu](#mal-bleu).  
   - Les visions se manifestent d’abord par un sentiment confus de colère intense et de perte, suivi de l’image du visage d’une jeune femme, de draps ensanglantés et de la couleur bleue.
@@ -352,10 +352,10 @@ Une immense table en bois entourée de chaises occupe la pièce. Six petites **s
 
 Des passages ramifiés en bois pourri, d’un jaune criard. Une mousse bleutée recouvre presque tout le sol. Du côté Est se trouvent deux pièces, l'une avec une **porte rouge** et un balai à l'envers posé contre cette dernière et l'autre avec une **porte bleue**.  Du côté Ouest se trouve une pièce avec une **porte jaune**.
 
-- **Mousse** : Seul le sol à proximité de la [16. Pièce Jaune](16-pièce-jaune) n'est pas recouvert de mousse.  
+- **Mousse** : Seul le sol à proximité de la [16. Chambre Jaune](#16-chambre-jaune) n'est pas recouvert de mousse.  
 - **Porte Rouge** : Verrouillée mais facile à forcer. Le balai peut être mis de côté sans problème (voir [Cauchemora](#cauchemora)). Voir [14. Pièce Rouge](#14-pièce-rouge).  
 - **Porte Bleue** : N'est pas fermée à clé. Voir[15. Pièce Bleue](#15-pièce-bleue).  
-- **Porte Jaune** : Verrouillée mais facile à forcer. Voir[16. Pièce Jaune](16-pièce-jaune).
+- **Porte Jaune** : Verrouillée mais facile à forcer. Voir[16. Chambre Jaune](#16-chambre-jaune).
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/hall-of-rooms.webp)
 
@@ -394,7 +394,7 @@ Sa porte est peinte en bleu. Un simple **lit** est disposé au centre de la piè
 - **Mirror** : Contrairement à tous les autres miroirs du manoir celui-ci est banal.  
   - Il est fixé au mur ; au prix d’un effort considérable (assez pour déclencher un Évènement de Donjon), le cadre finira par pivoter, révélant un tunnel secret vers la [18. Chambre Principale](#18-chambre-principale).
 
-#### 16. Chambre Jaune {#16.-pièce-jaune}
+#### 16. Chambre Jaune
 
 Sa porte est peinte en jaune. Un **lit** sans draps se trouve près d'une **fenêtre** ouverte côté Ouest, à proximité repose une **maison de poupée** sur une table. Des jouets d’enfants, marqués par les intempéries, sont éparpillés sur le **plancher** en bois.
 
