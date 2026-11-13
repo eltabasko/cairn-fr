@@ -354,7 +354,7 @@ Des passages ramifiés en bois pourri, d’un jaune criard. Une mousse bleutée 
 
 - **Mousse** : Seul le sol à proximité de la [16. Chambre Jaune](#16-chambre-jaune) n'est pas recouvert de mousse.  
 - **Porte Rouge** : Verrouillée mais facile à forcer. Le balai peut être mis de côté sans problème (voir [Cauchemora](#cauchemora)). Voir [14. Pièce Rouge](#14-pièce-rouge).  
-- **Porte Bleue** : N'est pas fermée à clé. Voir[15. Pièce Bleue](#15-pièce-bleue).  
+- **Porte Bleue** : N'est pas fermée à clé. Voir[15. Chambre Bleue](#15-chambre-bleue).  
 - **Porte Jaune** : Verrouillée mais facile à forcer. Voir[16. Chambre Jaune](#16-chambre-jaune).
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/hall-of-rooms.webp)
@@ -403,7 +403,7 @@ Sa porte est peinte en jaune. Un **lit** sans draps se trouve près d'une **fen�
 - **Fenêtre** : Un auvent incurvé protège la chambre des intempéries.  
   - Donne sur la [7.Serre](#7-serre) et le bosquet d'arbres adjacent au [9. Puits](#9-puits).  
   - Une corde faite de draps moisis pend du rebord de la fenêtre jusqu'au sol. Elle se rompra si un.e adulte tente de s'y accrocher.  
-- **Maison de poupée** : Une réplique fidèle du manoir. Le passage secret reliant la [15. Pièce Bleue](#15-pièce-bleue) à la [18. Chambre Principale](#18-chambre-principale) y est clairement visible.  
+- **Maison de poupée** : Une réplique fidèle du manoir. Le passage secret reliant la [15. Chambre Bleue](#15-chambre-bleue) à la [18. Chambre Principale](#18-chambre-principale) y est clairement visible.  
 - **Plancher** : Dépourvu de toute contamination. Sous aucune circonstance Marius n'entrera dans la pièce et ignorera quiconque y entrera.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/yellow-room.webp)
@@ -438,18 +438,18 @@ Un lit occupe le centre de la pièce, une **forme ** humanoïde enfoncée en son
 - **Miroir** : Celui-ci ne reflète rien. Une partie du verre semble manquer.  
   - Si le morceau de verre tenu par Luciana est replacé sur le miroir, i lse réparera et affichera une vue en direct de n’importe quelle pièce du manoir, même si cette dernière se trouve dans une complète obscurité.  
 - **Étagère** : Essentiellement des petits objets sans valeur, ainsi qu’une illustration de Marius.  
-  - Sous l'étagère se trouve un bouton qui active le passage secret vers la [15. Pièce Bleue](#15-pièce-bleue), qui s'ouvre en pivotant.  
+  - Sous l'étagère se trouve un bouton qui active le passage secret vers la [15. Chambre Bleue](#15-chambre-bleue), qui s'ouvre en pivotant.  
   - Anna se servait de ce passage pour rendre visite à sa mère après que Marius eut enfermé Luciana.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/private-chambers.webp)
 
 ### Cycle d'Exploration de Donjon
 
-- Each turn, a PC may move ~40ft and take one action. Using the action to move instead allows up to 120ft, but risks a [Dungeon Events roll](#dungeon-events) (see below).  
-- A Dungeon Events roll is triggered when the party spends more than one turn in a room, moves haphazardly, enters a new area or level, or creates a disturbance.  
-- Actions are any non-passive activities: searching, forcing doors, listening, disarming traps, combat, spellcasting, resting, etc. Loud or noticeable actions may trigger an encounter. Some actions take multiple turns to complete.  
-- Searching one object or location exhaustively takes one turn and reveals hidden treasure, traps, or secret doors. Larger or more complex areas may take longer. Searching first is safer, but costs time.  
-- Resting one turn restores all HP, but requires light and a safe location. Resting does not restore Fatigue.
+- Pendant son tour, un PJ peut se déplacer jusqu’à 40 pieds et effectuer une action. Utiliser son action pour se déplacer davantage permet de rallonger la distance jusqu'à 120 pieds, mais ceci risque un jet d'[Évènements de Donjon](#table-dévènements-de-donjon) (voir ci-dessous). 
+- Un jet d'évènements de donjon se déclenche quand le groupe passe plus d'un tour dans une salle, se déplace n'importe comment, pénètre dans une nouvelle salle ou zone, ou provoque une perturbation.  
+- Les Actions sont toutes les activités non-passives: fouiller, forcer des portes, écouter, désamorcer des pièges, le combat, les lancement de sorts, se repose, etc. Les actions bruyantes ou perceptibles peuvent déclencher une rencontre. Certaines actions prennent plusieurs tours à être complétées.  
+- Fouiller minutieusement un objet ou un lieu prend un tour et permet de découvrir des trésors cachés, des pièges ou des portes dissimulées. Les zones plus vastes ou plus complexes peuvent nécessiter davantage de temps. Commencer par une fouille est une approche plus prudente, mais demande du temps.
+- Se repose un tour restaure les HP, mais nécessite de la lumière et un endroit sûr. Se reposer n'annule pas la Fatigue.
 
 ### Table d'Évènements de Donjon
 
@@ -472,7 +472,7 @@ Lorsque les PJ rencontrent un.e PNJ dont la réaction vis-à-vis du groupe n’e
 
 ## Carte du Manoir Lockwood & Évènements de Donjon
 
-[Ajouter Carte Soimple traduite dans dossier]
+[Ajouter Carte Simple traduite dans dossier]
 
 | d4 | Rencontres |  |
 | :---- | :---- | :---- |
