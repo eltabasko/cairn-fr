@@ -8,12 +8,11 @@ L'aventure qui suit est également disponible (VO) :
 
 ![CAS-4 Cover](https://cairnrpg.com/adventures/first-party/img/cas-4/CAS-4_cover.webp)
 
-**Cairn Adventure Series 4**
+**Séries d'Aventures de Cairn 4**
 
-Un Module d'Aventure pour Cairn 2e par Yochai Gal
+Un module d'aventure pour Cairn 2e par Yochai Gal
 
-**Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Mise en page par Adam Hensley. Edité par Yossi Krausz. Édition développementale by Derek B.
-
+**Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Mise en page par Adam Hensley. Édité par Yossi Krausz. Édition développementale par Derek B.
 Traduction entamée Nov. 2026 par Tabasko.
 
 Publié par Cairn Press en Octobre 2026.
