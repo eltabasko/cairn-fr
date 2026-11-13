@@ -337,8 +337,8 @@ Un petit **Espace** dégagé parmi les arbres. Au centre se trouve un grand mont
 
 - **Espace** : Aucune mousse ne pousse ici, même pas sur les pierres.  
 - **Pierres** : Lourdes, elles requièrent 3 tours pour être dégagées. Sous les pierres on trouve une terre noircie.  
-  - Sous ces pierres se trouve une tombe improvisée pour Isobel. Son cadavre est encore frais, comme elle avait eu la gorge tranchée il y a quelques heures à peine. On distingue un tatouage discret du [Corbeau Blanc](#white-ravens) sur son cou.  
-  - La terre est boueuse et à vif, car les énergies nécrotiques d'Isobel se sont infiltrées dans la nappe phréatique et dans l'eau du [9. Puits](#9-puits).
+  - Sous ces pierres se trouve une tombe improvisée pour Isobel. Son cadavre est encore frais, comme elle avait eu la gorge tranchée il y a quelques heures à peine. On distingue un tatouage discret des [Corbeaux Blanc](#les-corbeaux-blancs) sur son cou.  
+  - La terre est boueuse et brute, car les énergies nécrotiques d'Isobel se sont infiltrées dans la nappe phréatique et dans l'eau du [9. Puits](#9-puits).
 
 ### 1er Étage
 
