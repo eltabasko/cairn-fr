@@ -42,7 +42,7 @@ Une assemblée de dames et de seigneurs, propriétaires terriens et fortunés. R
 
 ### Que se passe t-il vraiment ?
 
-Quelques mois à peine après son arrivée au manoir, Marius entama une liaison avec une domestique, Isobel. Jeune et inexpérimentée, elle tomba amoureuse de Marius et menaça de révéler leur relation à sa femme. Marius, craignant de perdre son rang familial, assassina Isobel et enterra son corps dans un bosquet voisin (voir [11.Clairière](#11-clairiere)). Ce que Marius ne réalisa pas était que la jeune Isobel était une Demi-Sorcière dont l'esprit maudit la famille Lockwood et ses descendants, contaminant leur approvisionnement en eau ([9. Puits](#9-puits)) avec le [Mal Bleu](#mal-bleu).
+Quelques mois à peine après son arrivée au manoir, Marius entama une liaison avec une domestique, Isobel. Jeune et inexpérimentée, elle tomba amoureuse de Marius et menaça de révéler leur relation à sa femme. Marius, craignant de perdre son rang familial, assassina Isobel et enterra son corps dans un bosquet voisin (voir [11.Clairière](#11-clairière)). Ce que Marius ne réalisa pas était que la jeune Isobel était une Demi-Sorcière dont l'esprit maudit la famille Lockwood et ses descendants, contaminant leur approvisionnement en eau ([9. Puits](#9-puits)) avec le [Mal Bleu](#mal-bleu).
 
 Peu après, Luciana commença à montrer les signes d'une infection, son corps s'atrophiant lentement en un amalgame de plante et de femmes. À mesure que son état empirait, Marius se retira des élites de la société, devenant de jour en jour plus reclus et paranoïaque, allant jusqu’à installer des miroirs divinatoires pour espionner son personnel. Il finit par isoler le domaine du monde extérieur et licencia le reste du personnel. Puis il enferma Luciana dans leur chambre et interdit tout visite.
 
@@ -61,7 +61,7 @@ Avec le temps, la propriété tomba en ruine, les haies délaissées retrouvère
 
 ### Terminer l'aventure
 
-Enterrée sous le tas de rochers dans la [11. CLairière](#11-clairiere), la frêle silhouette d’Isobel contamine en permanence le réseau d’eau du manoir.([9. Puits](#9-puits)). Pour briser la malédiction, son nom doit être prononcé à voix haute au-dessus de son corps enterré. Si laissée irrésolue la malédiction d'Isobel continuera à se propager dans la Forêt et les cours d'eau alentour, jusqu'à atteindre la région.
+Enterrée sous le tas de rochers dans la [11. CLairière](#11-clairière), la frêle silhouette d’Isobel contamine en permanence le réseau d’eau du manoir.([9. Puits](#9-puits)). Pour briser la malédiction, son nom doit être prononcé à voix haute au-dessus de son corps enterré. Si laissée irrésolue la malédiction d'Isobel continuera à se propager dans la Forêt et les cours d'eau alentour, jusqu'à atteindre la région.
 
 ![Portraits](https://cairnrpg.com/adventures/first-party/img/cas-4/portraits.webp)
 
@@ -96,7 +96,7 @@ Une maladie virale qui se propage par les gouttelettes d'eau ou au contact de sa
 
 ### Isobel
 
-L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle ne réalise pas qu'elle n'est plus de ce monde, ni qu'elle ne peut plus interagir directement avec le monde matériel. La venue de son esprit est toujours précédée d’une chute de température, et les sources de lumière exposées se mettent à vaciller. Quiconque tombant sur Isobel devra immédiatement réussir un **jet de sauvegarde** de VOL pour éviter d'être en Panique jusqu'à ce qu'elle s'en aille. Elle ne reste jamais au même endroit plus d’un Cycle d’Exploration de Donjon. Prononcer son nom en sa présence la pousse à fuir vers son corps dans la [11. Clairière](#11-clairiere). Si le nom d'Isobel est prononcé à haute voix au-dessus de son corps, son esprit sera libéré et la malédiction qu'elle a engendré prendra ainsi fin.
+L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle ne réalise pas qu'elle n'est plus de ce monde, ni qu'elle ne peut plus interagir directement avec le monde matériel. La venue de son esprit est toujours précédée d’une chute de température, et les sources de lumière exposées se mettent à vaciller. Quiconque tombant sur Isobel devra immédiatement réussir un **jet de sauvegarde** de VOL pour éviter d'être en Panique jusqu'à ce qu'elle s'en aille. Elle ne reste jamais au même endroit plus d’un Cycle d’Exploration de Donjon. Prononcer son nom en sa présence la pousse à fuir vers son corps dans la [11. Clairière](#11-clairière). Si le nom d'Isobel est prononcé à haute voix au-dessus de son corps, son esprit sera libéré et la malédiction qu'elle a engendré prendra ainsi fin.
 
 ### Mossling
 
