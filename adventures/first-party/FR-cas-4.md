@@ -327,7 +327,7 @@ Une estrade en bois est érigée sur le côté Ouest, devant un bosquet dense d�
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/theater.webp)
 
-#### 11. Clairiere
+#### 11. Clairière
 
 Un petit **Espace** dégagé parmi les arbres. Au centre se trouve un grand monticule recouvert de **pierres**.
 
