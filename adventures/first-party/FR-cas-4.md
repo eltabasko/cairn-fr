@@ -10,7 +10,7 @@ Un Module d'Aventure pour Cairn 2e par Yochai Gal
 
 **Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Misen en page par Adam Hensley. Edité par Yossi Krausz. Édition développementale by Derek B.
 
-Traduction 1.0 Nov. 2026 par Tabasko.
+Traduction Nov. 2026 par Tabasko.
 
 Publié par Cairn Press en Octobre 2026.
 
@@ -73,10 +73,10 @@ Des miroirs sont présents dans chaque pièce sauf [6. L'atelier](https://cairnr
 
 ### Mousse Bleue
 
-Répandue par Marius, surtout si il est blessé. Endommager la mousse l’attirera vers elle. (faites un jet d' [Evènement de Donjon](https://cairnrpg.com/adventures/first-party/cas-4/#dungeon-events) ). La mousse couvre quasiment toutes les surfaces du manoir.
+Répandue par Marius, surtout si il est blessé. Endommager la mousse l’attirera vers elle. (faites un jet d' [Evènement de Donjon](https://cairnrpg.com/adventures/first-party/cas-4/#dungeon-events)). La mousse couvre quasiment toutes les surfaces du manoir.
 
 - L'étudier révèle qu'elle tressaute toutes les 2-3 minutes.  
-- Elle est attirée par la chair lorsque proche d'elle, mais se courbera à proximité d'une source de chaleur. Un personnage touchant la mousse aura une [4-in-6](https://cairnrpg.com/adventures/first-party/cas-4/#) chance de devenir infecté.e par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).
+- Elle est attirée par la chair lorsque proche d'elle, mais se courbera à proximité d'une source de chaleur. Un personnage touchant la mousse aura une [4-in-6] chance de devenir infecté.e par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).
 
 ### Mal Bleu/Mal de Mousse
 
@@ -94,7 +94,7 @@ L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle n
 
 ### Mossling
 
-3 HP, 5 FOR, 14 DEX, 12 VOL, spores toxiques ([d6](https://cairnrpg.com/adventures/first-party/cas-4/#), blast)
+3 HP, 5 FOR, 14 DEX, 12 VOL, spores toxiques (d6, explosif)
 
 - Des excroissances bipèdes et verdâtres, issues d’expériences diverses. Intelligentes.  
 - Sujets au Mal Bleu, savent qu'il faut éviter la mousse bleue.  
@@ -102,10 +102,10 @@ L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle n
 
 ### Mossling Infecté
 
-1 HP, 2 FOR, 16 DEX, 4 VOL, spores infectés ([d10](https://cairnrpg.com/adventures/first-party/cas-4/#), blast)
+1 HP, 2 FOR, 16 DEX, 4 VOL, spores infectés ([d10], explosif)
 
 - Des Mosslings/Moussus infectés par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).  
-- **Critical Damage** : Les spores creusent dans la peau exposée ([2-in-6](https://cairnrpg.com/adventures/first-party/cas-4/#) chance que la victime contracte le Mal Bleu).
+- **Critical Damage** : Les spores creusent dans la peau exposée ([2-in-6] chance que la victime contracte le Mal Bleu).
 
 ### Marius
 
@@ -113,15 +113,15 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 
 ### Masse Titubante
 
-**9 HP, 15 FOR, 6 DEX, 12 VOL, Lianes([d8+d8](https://cairnrpg.com/adventures/first-party/cas-4/#))**
+**9 HP, 15 FOR, 6 DEX, 12 VOL, Lianes([d8+d8])**
 
-- Si vaincu, il se reforme au bout de [1d4](https://cairnrpg.com/adventures/first-party/cas-4/#) heures. Seule la Fiole Violette dans le [6. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop) peut définitivement le tuer.  
+- Si vaincu, il se reforme au bout de [1d4] heures. Seule la Fiole Violette dans le [6. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop) peut définitivement le tuer.  
 - Les dégâts d'armes non-tranchantes sont Atténués.  
 - **Critical Damage** : La cible devient infectée par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).
 
 ### Évènements de Donjon
 
-| [d4](https://cairnrpg.com/adventures/first-party/cas-4/#) | Rencontres |  |
+| [d4] | Rencontres |  |
 | :---- | :---- | :---- |
 | 1 | Marius | **À l'intérieur** : Une démarche lourde fait trembler le manoir. Dehors : Une silhouette **sombre** passe en titubant devant une fenêtre ouverte. |
 | 2 | Mossling | Un ricanement étouffé se fait entendre, provenant des profondeurs de l’obscurité, au ras du sol. Quelque chose bouge dans l’ombre. |
@@ -132,7 +132,7 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 
 | d4 | Environnement |
 | :---- | :---- |
-| 1 | Le plancher est instable et menace de s'effondrer. Réussissez un jet de sauvegarde DEX ou prenez [d4](https://cairnrpg.com/adventures/first-party/cas-4/#) dégâts de FOR du bois brisé. |
+| 1 | Le plancher est instable et menace de s'effondrer. Réussissez un jet de sauvegarde DEX ou prenez [d4] dégâts de FOR du bois brisé. |
 | 2 | L’humidité s'écoule du plafond, éteignant les flammes nues. |
 | 3 | Un intense parfum floral vous arrive aux narines depuis l’Ouest. L’odeur s’accompagne d’une pointe d'acidité, suivie de nausées. |
 | 4 | Un vent hurlant balaie les lieux. Le manoir gémit et bouge en réaction. |
@@ -214,7 +214,7 @@ Une somptueuse salle de balle faisant aussi office de salle d'audience, dotée d
 
 ##### Creeper
 
-**4 HP, 12 FOR, 13 DEX, 5 VOL, Lianes-tentacules ([d6](https://cairnrpg.com/adventures/first-party/cas-4/#), blast)**
+**4 HP, 12 FOR, 13 DEX, 5 VOL, Lianes-tentacules (d6, explosif)**
 
 - Inerte jusqu'à ce qu'un créature s'en approches. Déteste le feu.  
 - **Drain** : Une fois attrapée, la victime perd 4 FOR par round jusqu'à être vidée de son sang. Le Creeper est sans défense lorsqu'il se nourrit.
@@ -247,13 +247,13 @@ Un grand **meuble** pourvu de 30 petits tiroirs se trouve du côté Ouest. Un lo
 
 ##### Objets du meuble
 
-| [d6](https://cairnrpg.com/adventures/first-party/cas-4/#) | Objets |  |
+| d6 | Objets |  |
 | :---- | :---- | :---- |
 | 1 | Cataplasme séché | Soigne 1d4 FOR, 2 utilisations. |
 | 2 | Touffe de poils de chat | Agilité féline, mais facilement distrait.e par les objets brillants. 2 utilisations. |
 | 3 | Graines d'arbre à savon | Petites billes enduites de poudre noire. Créent une obscurité impénétrable. 2 utilisations. |
 | 4 | Fiole de gelée royale | Guérit de la privation et peut être utilisée comme ration. 4 utilisations. |
-| 5 | Essence d'aile de chauve-souris | Met en lévitation incontrôlée pendant [1d4](https://cairnrpg.com/adventures/first-party/cas-4/#) minutes. Jet de sauvegarde DEX pour éviter la cata. 1 utilisation. |
+| 5 | Essence d'aile de chauve-souris | Met en lévitation incontrôlée pendant [1d4] minutes. Jet de sauvegarde DEX pour éviter la cata. 1 utilisation. |
 | 6 | Digital Séchée | Comprendre, pendant une heure, les grognements et pépiements du Bois. Doit être fumée (provoque l'Épuisement). 1 utilisation. |
 
 [finir tableau]
@@ -285,7 +285,7 @@ Des **Arbres** bordent les côtés nord et Est d'un espace extérieur. En son ce
 - **Arbres** : Sont épais et plantés serrés. Une personne de forte corpulence aurait du mal à passer à travers.  
   - En traversant les arbres du côté Est, on découvre un accès menant à la corde de draps pendant d'une fenêtre de la [16. Yellow Room](https://cairnrpg.com/adventures/first-party/cas-4/#16-yellow-room) .  
 - **Puits** : Un seau accroché à une corde peut être utilisé.  
-  - Boire de l'eau du puits provoque des visions intenses suivies d'une forte gueule de bois pendant [d4](https://cairnrpg.com/adventures/first-party/cas-4/#) heures. (Les attaques sont Atténuées et le buveur Affaibli.) Iels seront également contaminé par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).  
+  - Boire de l'eau du puits provoque des visions intenses suivies d'une forte gueule de bois pendant [d4] heures. (Les attaques sont Atténuées et le buveur Affaibli.) Iels seront également contaminé par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).  
   - Les visions se manifestent d’abord par un sentiment confus de colère intense et de perte, suivi de l’image du visage d’une jeune femme, de draps ensanglantés et de la couleur bleue.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/well.webp)
@@ -441,7 +441,7 @@ Un lit occupe le centre de la pièce, une **forme ** humanoide enfoncée en son 
 
 ## Table de Réactions
 
-Lorsque les PJ rencontrent un PNJ dont la réaction vis-à-vis du groupe n’est pas claire, le Gardien peut effectuer un jet de [2d6](https://cairnrpg.com/adventures/first-party/cas-4/#) et consulter la table ci-dessous:
+Lorsque les PJ rencontrent un PNJ dont la réaction vis-à-vis du groupe n’est pas claire, le Gardien peut effectuer un jet de [2d6] et consulter la table ci-dessous:
 
 | 2 | 3-5 | 6-8 | 9-11 | 12 |
 | :---- | :---- | :---- | :---- | :---- |
@@ -451,7 +451,7 @@ Lorsque les PJ rencontrent un PNJ dont la réaction vis-à-vis du groupe n’est
 
 [Ajouter Carte Soimple traduite dans dossier]
 
-| [d4](https://cairnrpg.com/adventures/first-party/cas-4/#) | Rencontres |  |
+| [d4] | Rencontres |  |
 | :---- | :---- | :---- |
 | 1 | Marius | **À l'intérieur** : Des pas lourds font trembler le manoir. Dehors : Une silhouette **sombre** passe en titubant devant une fenêtre ouverte. |
 | 2 | Mossling | A faint giggle is heard from deep in the dark, low to the ground. Something moves in shadow. |
@@ -462,7 +462,7 @@ Lorsque les PJ rencontrent un PNJ dont la réaction vis-à-vis du groupe n’est
 
 | d4 | Environnement |
 | :---- | :---- |
-| 1 | Le plancher est instable et menace de s'effondre. Réussissez un jet de sauvegarde DEX ou prenez [d4](https://cairnrpg.com/adventures/first-party/cas-4/#) dégâts de FOR des chutes de bois. |
+| 1 | Le plancher est instable et menace de s'effondre. Réussissez un jet de sauvegarde DEX ou prenez [d4] dégâts de FOR des chutes de bois. |
 | 2 | L’humidité du plafond goutte, éteignant les flammes nues. |
 | 3 | Un parfum floral intense vous parvient depuis l’Ouest. L’odeur s’accompagne d’une pointe d'acidité, qui provoque des nausées. |
 | 4 | Un vent hurlant balaie les lieux. Le manoir gémit et bouge en réaction. |
