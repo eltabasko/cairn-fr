@@ -20,9 +20,9 @@ Les Textes et mise en page sont sous Licence CC-BY SA 4.0.
 
 ### Ce que tout le monde sait
 
-Il y a plusieurs décennies de cela, Marius Lockwood, héritier d'une famille fortunée, revint sur l'exploitation familiale avec sa femme Luciana et sa jeune fille Anna. Moins d'un an plus tard, le domaine sombra dans le silence, et l’on n’eut plus guère de nouvelles de la famille.
+Il y a plusieurs décennies de cela, Marius Lockwood, l'héritier d'une famille fortunée, revint sur l'exploitation familiale avec sa femme Luciana et sa jeune fille Anna. Moins d'un an plus tard, le domaine sombra dans le silence, et l’on n’eut plus guère de nouvelles de la famille.
 
-Les personnages devraient pouvoir reconnaître des armoiries familiales bien connues, comme celles des Lockwood. Entre-temps, les rumeurs vont bon train au sujet d’une nouvelle maladie transmise par l’eau, qui tue lentement ses victimes en leur remplissant les poumons de mousse.
+Les personnages devraient pouvoir identifier des armoiries familiales bien connues, comme celles des Lockwood. Entre-temps, les rumeurs vont bon train au sujet d’une nouvelle maladie transmise par l’eau, qui tue lentement ses victimes en leur remplissant les poumons de mousse.
 
 ![Family Crest](https://cairnrpg.com/adventures/first-party/img/cas-4/family-crest.webp)
 
