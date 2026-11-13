@@ -96,7 +96,7 @@ Une maladie virale qui se propage par les gouttelettes d'eau ou au contact de sa
 
 ### Isobel
 
-L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle ne réalise pas qu'elle n'est plus de ce monde, ni qu'elle ne peut plus interagir directement avec le monde matériel. La venue de son esprit est toujours précédée d’une chute de température, et les sources de lumière exposées se mettent à vaciller. Quiconque tombant sur Isobel devra immédiatement réussir un **jet de sauvegarde** de VOL pour éviter d'être en Panique jusqu'à ce qu'elle s'en aille. Elle ne reste jamais au même endroit plus d’un Cycle d’Exploration de Donjon. Prononcer son nom en sa présence la pousse à fuir vers son corps dans la [11. Glade](https://cairnrpg.com/adventures/first-party/cas-4/#11-glade). Si le nom d'Isobel est prononcé à haute voix au-dessus de son corps, son esprit sera libéré et la malédiction qu'elle a engendré prendra ainsi fin.
+L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle ne réalise pas qu'elle n'est plus de ce monde, ni qu'elle ne peut plus interagir directement avec le monde matériel. La venue de son esprit est toujours précédée d’une chute de température, et les sources de lumière exposées se mettent à vaciller. Quiconque tombant sur Isobel devra immédiatement réussir un **jet de sauvegarde** de VOL pour éviter d'être en Panique jusqu'à ce qu'elle s'en aille. Elle ne reste jamais au même endroit plus d’un Cycle d’Exploration de Donjon. Prononcer son nom en sa présence la pousse à fuir vers son corps dans la [11. Clairère](#11-clairiere). Si le nom d'Isobel est prononcé à haute voix au-dessus de son corps, son esprit sera libéré et la malédiction qu'elle a engendré prendra ainsi fin.
 
 ### Mossling
 
@@ -110,7 +110,7 @@ L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle n
 
 1 HP, 2 FOR, 16 DEX, 4 VOL, spores infectés ([d10], explosif)
 
-- Des Mosslings infectés par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).  
+- Des Mosslings infectés par le [Mal Bleu](#mal-bleu).  
 - **Critical Damage** : Les spores creusent dans la peau exposée ([2-in-6] chance que la victime contracte le Mal Bleu).
 
 ### Marius
@@ -121,9 +121,9 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 
 **9 HP, 15 FOR, 6 DEX, 12 VOL, Lianes([d8+d8])**
 
-- Si vaincu, il se reforme au bout de [1d4] heures. Seule la Fiole Violette dans le [6. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop) peut définitivement le tuer.  
+- Si vaincu, il se reforme au bout de [1d4] heures. Seule la Fiole Violette dans le [6. Laboratoire](#6-Laboratoire) peut définitivement le tuer.  
 - Les dégâts d'armes non-tranchantes sont Atténués.  
-- **Critical Damage** : La cible devient infectée par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).
+- **Critical Damage** : La cible devient infectée par le [Mal Bleu](#mal-bleu).
 
 ### Évènements de Donjon
 
