@@ -5,8 +5,6 @@
 L'aventure qui suit est également disponible (VO) :
 - En [livre](https://store.cairnrpg.com/products/cas-4-the-forgetting-of-lockwood-manor)
 - Au format [PDF](https://cairnpress.itch.io/the-forgetting-of-lockwood-manor)
-- Au format markdown ci-dessous
-
 
 ![CAS-4 Cover](https://cairnrpg.com/adventures/first-party/img/cas-4/CAS-4_cover.webp)
 
