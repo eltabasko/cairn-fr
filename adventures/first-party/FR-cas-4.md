@@ -58,7 +58,7 @@ Avec le temps, la propriété tomba en ruine, les haies délaissées retrouvère
 
 ### Terminer l'aventure
 
-Enterrée sous le tas de rochers dans la [11. Clairière](#11-clairière), la frêle silhouette d’Isobel contamine sans cesse le réseau d’eau du manoir.([9. Puits](#9-puits)). Pour briser la malédiction, son nom doit être prononcé à voix haute au-dessus de son corps enterré. Si laissée irrésolue la malédiction d'Isobel continuera à se propager dans la Forêt et les cours d'eau alentour, jusqu'à contaminer la région.
+Enterrée sous le tas de rochers dans la [11. Clairière](#11-clairière), la frêle silhouette d’Isobel contamine sans cesse le réseau d’eau du manoir ([9. Puits](#9-puits)). Pour briser la malédiction, son nom doit être prononcé à voix haute au-dessus de son corps enterré. Si laissée irrésolue la malédiction d'Isobel continuera à se propager dans la Forêt et les cours d'eau alentour, jusqu'à contaminer la région.
 
 ![Portraits](https://cairnrpg.com/adventures/first-party/img/cas-4/portraits.webp)
 
@@ -105,7 +105,7 @@ L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle n
 
 ### Mossling Infecté
 
-1 HP, 2 FOR, 16 DEX, 4 VOL, spores infectés ([d10], explosif)
+1 HP, 2 FOR, 16 DEX, 4 VOL, spores infectés (d10, explosif)
 
 - Des Mosslings infectés par le [Mal Bleu](#mal-bleu).  
 - **Critical Damage** : Les spores creusent dans la peau exposée ([2-in-6] chance que la victime contracte le Mal Bleu).
@@ -116,7 +116,7 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 
 ### Masse Titubante
 
-**9 HP, 15 FOR, 6 DEX, 12 VOL, Lianes([d8+d8])**
+**9 HP, 15 FOR, 6 DEX, 12 VOL, Lianes(d8+d8)**
 
 - Si vaincu, il se reforme au bout de [1d4] heures. Seule la Fiole Violette dans le [6. Laboratoire](#6-laboratoire) peut définitivement le tuer.  
 - Les dégâts d'armes non-tranchantes sont Atténués.  
@@ -258,22 +258,22 @@ Des couverts rouillés sont éparpillés sur une table recouverte de mousse. Un 
 
 #### 6. Laboratoire
 
-Un grand **meuble** pourvu de 30 petits tiroirs se trouve du côté Ouest. Un logn établi se trouve au centre de la pièce, avec une large **cuve** posée dessus. De la mousse pousse dans les fissures, à partir de l'entrée Sud et s'arrête jusqu'à **l'établi **. Il n'y a pas de miroirs dans la pièce. S'il n'a pas encore été croisé, Marius se trouvera ici.
+Du côté Ouest se trouve un grand **buffet** pourvu de 30 petits tiroirs. Un long établi est installé au centre de la pièce, avec une large **cuve** posée dessus. De la mousse pousse dans les fissures du sol, à partir de l'entrée Sud et s'arrête jusqu'à **l'établi **. Il n'y a pas de miroirs dans la pièce. S'il n'a pas encore été croisé, Marius se trouvera ici.
 
-- **Meuble** : Chaque tiroir contient un échantillon d'herbe ou de plante, chaque tiroir prend un tour pour être examiné (voir le tableau plus bas). Seul.e un.e experte en botanique pourrait tout identifier. Pour chercher une plante spécifique, lancer un Dé de Destin!  
-- **Établi** : Surmonté d’une cuve et d’un ensemble de tubes, ainsi que d’un journal.  
-  - **Journal** : Rempli d’une écriture difficile à lire et d’un jargon botanique précis. Décrit les recherches d'un m. Lockwood, essayant de trouver un remède à la maladie de sa femme (le “Mal Bleu”). La suite du texte détaille un traitement définitif que tout Greenwise peut mettre en œuvre, à condition qu’un parent en bonne santé de la personne infectée soit disposé.e. Vers la fin on distingue une phrase tout à fait lisible: “Commence les essais sur Anna demain, par précaution. Le traitement est enfin à portée de main!” Un appendice écrit au dos du journal décrit le fonctionnement de chaque potion posée au-dessus de la cuve, mais seulement leurs effets. Aucune couleur n’est indiquée.  
+- **Buffet** : Chaque tiroir contient un échantillon d'herbe ou de plante, et prend un tour pour être examiné (voir le tableau plus bas). Seul.e un.e experte en botanique pourrait tout identifier. Pour trouver une plante spécifique, lancer un Dé de Destin!  
+- **Établi** : Surmonté d’une cuve et d’un ensemble de tubes, ainsi que d’un carnet de notes.  
+  - **Carnet** : Rempli d’une écriture difficile à lire et d’un jargon botanique précis. Décrit les recherches d'un m. Lockwood, essayant de trouver un remède à la maladie de sa femme (le “Mal Bleu”). La suite du texte détaille un traitement définitif que tout Greenwise peut mettre en œuvre, à condition qu’un.e parent.e en bonne santé de la personne infectée soit disposé.e. Vers la fin on distingue une phrase tout à fait lisible: “Commence les essais sur Anna demain, par précaution. Le traitement est enfin à portée de main!” Un appendice écrit au dos du journal décrit le fonctionnement de chaque potion posée au-dessus de la cuve, mais seulement leurs effets. Aucune couleur n’est indiquée.  
 - **Cuve** : Vide. Au-dessus se trouve un support avec quatre flacons contenant des liquides de couleurs variées.  
-- **Rouge** : Sirop de Clé. Verser dans n'importe quelle serrure; une clé à usage unique se formera dedans. 3 usages.  
-- **Noire** : Ichor du Néant. Buvez et tous ceux qui vous connaissaient vous oublieront pour toujours et ignoreront toute référence à votre personne, parlée ou écrite. 1 usage.  
+- **Rouge** : Sirop de Clé. Verser dans n'importe quelle serrure; une clé à usage unique se formera dedans. 3 utilisations.  
+- **Noire** : Ichor du Néant. Buvez et tous ceux qui vous connaissaient vous oublieront pour toujours et ignoreront toute référence à votre personne, parlée ou écrite. 1 utilisation.  
 - **Bleue** : Lame Fragile. Réagit au métal, affûtant son tranchant. Cette lame fera des dégâts *renforcés*, puis se brisera au contact du sang. 2 utilisations.  
 - **Violette** : Floraison de Mort. Provoque la mort instantanée de la végétation, se propageant et dévorant tout ce qu’elle touche jusqu’à entrer en contact avec de l’eau. 1 utilisation.
 
-##### Objets du meuble
+##### Objets du buffet
 
 | d6 | Objets |  |
 | :---- | :---- | :---- |
-| 1 | Cataplasme séché | Soigne 1d4 FOR, 2 utilisations. |
+| 1 | Cataplasme séché | Soigne [1d4] FOR, 2 utilisations. |
 | 2 | Touffe de poils de chat | Agilité féline, mais facilement distrait.e par les objets brillants. 2 utilisations. |
 | 3 | Graines d'arbre à savon | Petites billes enduites de poudre noire. Créent une obscurité impénétrable. 2 utilisations. |
 | 4 | Fiole de gelée royale | Guérit de la privation et peut être utilisée comme ration. 4 utilisations. |
@@ -285,12 +285,12 @@ Un grand **meuble** pourvu de 30 petits tiroirs se trouve du côté Ouest. Un lo
 
 #### 7. Serre
 
-Les panneaux de verre de la toiture sont pour la plupart intacts, projetant un kaléidoscope de lumière sur les **plantes** envahissantes qui poussent ici. Un voile en peau de mouton recouvre une petite surface, et une **odeur** rappelant du fumier se manifeste aux alentours. Une petite **fenêtre** est ouverte du côté Est.
+Les panneaux de verre de la toiture sont pour la plupart intacts, projetant un kaléidoscope de lumière sur les **plantes** envahissantes qui poussent ici. Un **drap** en peau de mouton recouvre une petite surface, et une **odeur** rappelant du fumier se manifeste alentour. Une petite **fenêtre** est ouverte du côté Est.
 
 - **Plantes** : Des variétés atypiques. Certaines réagissent au toucher ; d’autres émettent des gloussements.  
-- **Voile**: Dissimulée en dessous se trouve de la Pourriture verte, un champignon bioluminescent. Gardé en vie, il peut produire une lumière équivalente à celle d’une bougie, jusqu’à ce qu’il soit exposé à la lumière du soleil.  
+- **Drap**: Dissimulée en dessous se trouve de la Pourriture Verte, un champignon bioluminescent. Gardé en vie, il peut produire une lumière équivalente à celle d’une bougie, jusqu’à ce qu’il soit exposé à la lumière du soleil.  
 - **Odeur** : Provient d'un petite fleur jaune à feuilles violettes appelée Pâquerette Rêveuse. Rester ici plus d'un Cycle D'Exploration de Donjon provoquera une crise Panique, la victime étant en proie à d’horribles hallucinations.  
-- **Fenêtre** : Offre une vue en biais de la [16. Chambre Jaune](#16.-piece-jaune). On peut y voir une corde faites de draps.
+- **Fenêtre** : Offre une vue en biais de la [16. Chambre Jaune](#16.-chambre-jaune). On peut y voir une corde faites de draps.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/greenhouse.webp)
 
@@ -305,17 +305,17 @@ Des mur en bois étroits et un plancher de bois nu. Des **miroirs** sont dispos�
 
 Des **Arbres** bordent les côtés nord et Est d'un espace extérieur. En son centre se trouve un **puits**. Au Nord on peut voir un chemin à travers un épais taillis.
 
-- **Arbres** : Sont épais et plantés serrés. Une personne de forte corpulence aurait du mal à passer à travers.  
+- **Arbres** : ils sont épais et plantés serrés. Une personne de forte corpulence aurait du mal à passer à travers.  
   - En traversant les arbres du côté Est, on découvre un accès menant à la corde de draps pendant d'une fenêtre de la [16. Chambre Jaune](#16-chambre-jaune).  
-- **Puits** : Un seau accroché à une corde peut être utilisé.  
-  - Boire de l'eau du puits provoque des visions intenses suivies d'une forte gueule de bois pendant d4 heures. (Les attaques sont Atténuées et le buveur Affaibli.) Iels seront également contaminé par le [Mal Bleu](#mal-bleu).  
+- **Puits** : un seau accroché à une corde peut être utilisé.  
+  - Boire de l'eau du puits provoque des visions intenses suivies d'une forte gueule de bois pendant d4 heures. (Les attaques sont Atténuées et le buveur Épuisé.) Iels seront également contaminé par le [Mal Bleu](#mal-bleu).  
   - Les visions se manifestent d’abord par un sentiment confus de colère intense et de perte, suivi de l’image du visage d’une jeune femme, de draps ensanglantés et de la couleur bleue.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/well.webp)
 
-#### 10. Théâtre Extérieur
+#### 10. Théâtre De Plein Air
 
-Une estrade en bois est érigée sur le côté Ouest, devant un bosquet dense d’arbres moussus. Un rideau rouge est tiré sur la scène, suspendu à une corde tendue entre deux grand poteaux, et un grand **prisme** incliné est accroché à un poteau en bois près de l’entrée à l'Est. Un demi-cercle de **chaises** en bois finement ouvragé est formé autour de l'estrade.
+Une estrade en bois est érigée sur le côté Ouest, devant un bosquet dense d’arbres moussus. Un rideau rouge est tiré sur la scène, suspendu à une corde tendue entre deux grands poteaux, et un large **prisme** incliné est accroché à un poteau en bois près de l’entrée, à l'Est. Un demi-cercle de **chaises** en bois finement ouvragé est formé autour de l'estrade.
 
 - **Prisme** : Un puissant faisceau lumineux émane de l’objet, dirigé droit vers les chaises et la scène.  
   - Les ombres des PJ projetées à partir du prisme vacillent et s’agitent de manière étrange.  
