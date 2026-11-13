@@ -1,4 +1,7 @@
 [WIP]
+<!-- NOTES
+Moss -> lichen bleu?
+-->
 
 # L'Aliénation du Manoir Lockwood
 
@@ -64,7 +67,7 @@ Enterrée sous le tas de rochers dans la [11. Clairière](#11-clairière), la fr
 
 ## Informations importantes
 
-Il est recommandé de commencer l'aventure à l'extérieur du manoir ([1. Portail](#1-portail). Lancez un Dé de Destin pour déterminer le temps qu'il fait ainsi que l'heure à laquelle le groupe arrive. Faites un Jet de Réaction pour les créatures rencontrées pendant l'aventure, sauf pour [Isobel](#isobel) et [Marius](#marius).
+Il est recommandé de commencer l'aventure à l'extérieur du manoir ([1. Portail](#1-portail)). Lancez un Dé de Destin pour déterminer le temps qu'il fait ainsi que l'heure à laquelle le groupe arrive. Faites un Jet de Réaction pour les créatures rencontrées pendant l'aventure, sauf pour [Isobel](#isobel) et [Marius](#marius).
 
 ### Détails Sensoriels
 
@@ -254,7 +257,7 @@ Des couverts rouillés sont éparpillés sur une table recouverte de mousse. Un 
 - **Miroir** : Fonctionne comme n’importe quel autre miroir du manoir, offrant une "vue du dessus" de la pièce quand utilisé depuis la [18. Chambre Principale](#18-chambre-principale).  
 - **Fenêtre** : Obstruée par la végétation (voir [3a. Seuil](#3a-seuil)). N'est pas verrouillée.
 
-![](https://cairnrpg.com/adventures/first-party/img/cas-4/cuisine.webp)
+![](https://cairnrpg.com/adventures/first-party/img/cas-4/kitchen.webp)
 
 #### 6. Laboratoire
 
