@@ -174,7 +174,7 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 Un **portail** en fer forgé, chargé de rouille, bloque l'accès. Des **haies** denses et non entretenues s’étendent depuis le portail dans toutes les directions. Une brume épaisse enveloppe les lieux, dissimulant le sol. *Ne faites pas de Jet de Rencontres à cet endroit.*
 
 - **Portail** : 12 pieds de haut et entrouvert, mais juste assez large pour qu'une personne mince sans sac-à-dos s'y glisse. Le nom “Lockwood” y est gravé en haut et scindé sur chaque grille.  
-  - Le “O” de “Lock” est serti d'une petite gemme d'une valeur de 25po.  
+  - Le “O” de "Lock” est serti d'une petite gemme d'une valeur de 25po.  
   - Si les grilles sont ouvertes davantage, elles émettront un grincement bruyant qui résonnera dans toute la zone (faites un jet d'[Évènements de Donjon](#évènements-de-donjon)).  
   - De l'autre côté des grilles, la végétation est suffisamment haute pour masquer la vue depuis le sol.  
 - **Haies** : Hautes de 10 pieds, elles s'étendent sur 100 pieds chacune dans un sens avant de toues les deux partir en direction du Nord.  
@@ -203,13 +203,13 @@ Un petit **bâtiment** en ruines fait de bois ternis et de pierre. Le bout d'un 
 
 #### 3a. Seuil
 
-Un **manoir** en disposition asymétrique à 2 étages une toiture en pente recouverte de bardeaux en écaille. La façade a l'air d'avoir été construite dans un **bois** verdâtre inhabituel, des marches de pierre recouvertes de mousse mènent à un porche à l'abandon présentant deux larges **portes** rouges. En haut l'**emblème** familial est accroché au linteau.
+Un **manoir** en disposition asymétrique à 2 étages abrité par une toiture en pente recouverte de bardeaux en écaille. La façade donne l'air d'avoir été construite dans un **bois** verdâtre inhabituel, des marches de pierre recouvertes de mousse mènent à un porche à l'abandon présentant deux larges **portes** rouges. En haut l'**emblème** familial est accroché au linteau.
 
-- **Manoir** : Des buissons denses et épineux longent le rez-de-chaussée du bâtiment, dissimulant une petite fenêtre. Au 1er étage, de grandes baies vitrées sont à peine visibles.  
+- **Manoir** : Des buissons denses et épineux longent le rez-de-chaussée du bâtiment, obstruant une petite fenêtre. Au 1er étage, de grandes baies vitrées sont à peine visibles.  
   - Couper le feuillage peut être accompli en 2 tours, mais seulement au prix d’efforts importants et avec les outils appropriés.  
   - La fenêtre donne sur la [5. Cuisine](#5-cuisine), mais il fait trop sombre pour y voir quelque chose. Elle n'est pas fermée. 
-  - Les baies vitrées donnent sur la [12. Salle à manger](#12-salle-a-manger). Les rideaux sont tirés.  
-  - Le [10. Théâtre de plein air](#10-théâtre-de-plein-air) et le [9. Well](#9-puits) sont visibles du côté Ouest.  
+  - Les baies vitrées donnent sur la [12. Salle à manger](#12-salle-à-manger). Les rideaux sont tirés.  
+  - Le [10. Théâtre de plein air](#10-théâtre-de-plein-air) et le [9. Puits](#9-puits) sont visibles du côté Ouest.  
 - **Bois** :  Une plante grimpante pénètre le bois, le teintant en vert.  
   - Toute la surface du manoir est extrêmement glissante et presque impossible à escalader sans les outils et l'habileté appropriés.  
 - **Portes** : Fermées mais pas verrouillées. Mènent au [3b. Vestibule](#3b-vestibule).  
@@ -230,7 +230,7 @@ Une petite salle d’attente richement décorée avec un **canapé** poussé con
 
 Une somptueuse salle de balle faisant aussi office de salle d'audience, dotée d'un sol en **mosaique**. D'épaisses **lianes** bleues pendent d'un lustre suspendu au centre de la pièce. De la **mousse** bleue pousse entre les carreaux près de la sortie Ouest. Du côté Est un petit escalier mène à l'étage.
 
-- **Mosaique** : Représente une foule nombreuse regardant une danceuse (Luciana) au bras tendu. Un véritable diamant se trouve sur l'un de ses doigts. Il faudra un tour pour le déloger, il vaut 250 po.  
+- **Mosaique** : Représente une foule nombreuse regardant une danseuse (Luciana) au bras tendu. Un véritable diamant se trouve sur l'un de ses doigts. Il faudra un tour pour le déloger, il vaut 250 po.  
 - **Vines** : un Creeper dissimulé. Attaque toute créature traversant la pièce (jet de sauvegarde de DEX pour l'éviter).  
 - **Mousse** : Vaguement en forme de pas. Produit par Marius lorsqu'il s'est déplacé vers la [5. Cuisine](#5-cuisine)).
 
