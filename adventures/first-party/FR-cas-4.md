@@ -2,13 +2,19 @@
 
 # L'Aliénation du Manoir Lockwood
 
+L'aventure qui suit est également disponible (VO) :
+- En [livre](https://store.cairnrpg.com/products/cas-4-the-forgetting-of-lockwood-manor)
+- Au format [PDF](https://cairnpress.itch.io/the-forgetting-of-lockwood-manor)
+- Au format markdown ci-dessous
+
+
 ![CAS-4 Cover](https://cairnrpg.com/adventures/first-party/img/cas-4/CAS-4_cover.webp)
 
 **Cairn Adventure Series 4**
 
 Un Module d'Aventure pour Cairn 2e par Yochai Gal
 
-**Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Misen en page par Adam Hensley. Edité par Yossi Krausz. Édition développementale by Derek B.
+**Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Mise en page par Adam Hensley. Edité par Yossi Krausz. Édition développementale by Derek B.
 
 Traduction Nov. 2026 par Tabasko.
 
@@ -61,7 +67,7 @@ Enterrée sous le tas de rochers dans la [11. CLairière](#11-clairiere), la fr�
 
 ## Informations importantes
 
-Il est recommandé de commencer l'aventure à l'extérieur du manoir ([1. Portail](#1-Le-portail). Lancez un Dé de Destin pour déterminer le temps qu'il fait ainsi que l'heure à laquelle le groupe arrive. Faites un jet de Réaction pour les créatures rencontrées pendant l'aventure, sauf pour [Isobel](https://cairnrpg.com/adventures/first-party/cas-4/#isobel) et [Marius](https://cairnrpg.com/adventures/first-party/cas-4/#marius).
+Il est recommandé de commencer l'aventure à l'extérieur du manoir ([1. Portail](#1-le-portail). Lancez un Dé de Destin pour déterminer le temps qu'il fait ainsi que l'heure à laquelle le groupe arrive. Faites un jet de Réaction pour les créatures rencontrées pendant l'aventure, sauf pour [Isobel](https://cairnrpg.com/adventures/first-party/cas-4/#isobel) et [Marius](https://cairnrpg.com/adventures/first-party/cas-4/#marius).
 
 ### Détails Sensoriels
 
@@ -76,9 +82,9 @@ Des miroirs sont présents dans chaque pièce sauf [6. L'atelier](https://cairnr
 Répandue par Marius, surtout si il est blessé. Endommager la mousse l’attirera vers elle. (faites un jet d' [Evènement de Donjon](https://cairnrpg.com/adventures/first-party/cas-4/#dungeon-events)). La mousse couvre quasiment toutes les surfaces du manoir.
 
 - L'étudier révèle qu'elle tressaute toutes les 2-3 minutes.  
-- Elle est attirée par la chair lorsque proche d'elle, mais se courbera à proximité d'une source de chaleur. Un personnage touchant la mousse aura une [4-in-6] chance de devenir infecté.e par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).
+- Elle est attirée par la chair lorsque proche d'elle, mais se courbera à proximité d'une source de chaleur. Un personnage touchant la mousse aura une [4-in-6] chance de devenir infecté.e par le [Mal Bleu](#mal-bleu).
 
-### Mal Bleu/Mal de Mousse
+### Mal Bleu
 
 Une maladie virale qui se propage par les gouttelettes d'eau ou au contact de sang contaminé. Les symptômes commencent par l’expectoration d’une mousse bleuâtre chez les individus infectés ; ces derniers finissent par mourir d’asphyxie au bout d’un mois environ. Le remède est détaillé dans le journal de Marius ([6. Workshop](#6-workshop)), mais peut être seulement implanté par un.e Greenwise ou un.e herboriste. Un parent du patient, en bonne santé, est aussi requis pour que le traitement fonctionne. Si l'esprit d'Isobel est mis au repos, la malédiction prendra fin et les victimes encore vivantes seront épargnées.
 
@@ -104,7 +110,7 @@ L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle n
 
 1 HP, 2 FOR, 16 DEX, 4 VOL, spores infectés ([d10], explosif)
 
-- Des Mosslings/Moussus infectés par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).  
+- Des Mosslings infectés par le [Mal Bleu](https://cairnrpg.com/adventures/first-party/cas-4/#moss-sickness).  
 - **Critical Damage** : Les spores creusent dans la peau exposée ([2-in-6] chance que la victime contracte le Mal Bleu).
 
 ### Marius
@@ -128,8 +134,6 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 | 3 | Mossling Infecté | La végétation alentour frissonne très légèrement. Des éclats bleus scintillent à travers la verdure. |
 | 4 | Isobel | Une chute soudaine de la température, suivie d’un soupir angoissé émis aux alentours. |
 
-&nbsp;
-
 | d4 | Environnement |
 | :---- | :---- |
 | 1 | Le plancher est instable et menace de s'effondrer. Réussissez un jet de sauvegarde DEX ou prenez [d4] dégâts de FOR du bois brisé. |
@@ -137,31 +141,51 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 | 3 | Un intense parfum floral vous arrive aux narines depuis l’Ouest. L’odeur s’accompagne d’une pointe d'acidité, suivie de nausées. |
 | 4 | Un vent hurlant balaie les lieux. Le manoir gémit et bouge en réaction. |
 
-![](https://cairnrpg.com/adventures/first-party/img/cas-4/simple-map-gray.webp)
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/simple-map-gray.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/simple-map-white.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
-![](https://cairnrpg.com/adventures/first-party/img/cas-4/iso-map.webp)
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/adventures/first-party/img/cas-4/iso-map.webp"
+  loading="lazy"
+  data-jil-regions="/adventures/first-party/maps/cas-4/iso-map.yml"
+  data-jil-viewer="false"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
 
 ## Le Manoir
 
 ### Accès
 
-#### 1. Le portail
+#### 1. Portail
 
-Un **portail** en fer forgé, chargé de rouille, bloque l'accès. Des **haies** épaisses et non entretenues s’étendent depuis le portail dans toutes les directions. Une brume épaisse enveloppe les lieux, dissimulant le sol. *Ne faites pas de jet de Rencontres à cet endroit.*
+Un **portail** en fer forgé, chargé de rouille, bloque l'accès. Des **haies** denses et non entretenues s’étendent depuis le portail dans toutes les directions. Une brume épaisse enveloppe les lieux, dissimulant le sol. *Ne faites pas de Jet de Rencontres à cet endroit.*
 
-- **Portail** : 12 pieds de haut et entrouvert, mais juste assez large pour qu'une personne mince sans sac-à-dos s'y glisse. Le nom “Lockwood” y est gravé en haut et divisé sur chaque grille.  
+- **Portail** : 12 pieds de haut et entrouvert, mais juste assez large pour qu'une personne mince sans sac-à-dos s'y glisse. Le nom “Lockwood” y est gravé en haut et scindé sur chaque grille.  
   - Le “O” de “Lock” est serti d'une petite gemme d'une valeur de 25po.  
-  - Si les grilles sont ouvertes davantage, elles émettront un grincement bruyant qui résonnera dans toute la zone (faites un jet d'[Évènements de Donjon](https://cairnrpg.com/adventures/first-party/cas-4/#dungeon-events)).  
+  - Si les grilles sont ouvertes davantage, elles émettront un grincement bruyant qui résonnera dans toute la zone (faites un jet d'[Évènements de Donjon](#évènements-de-donjon)).  
   - De l'autre côté des grilles, la végétation est suffisamment haute pour masquer la vue depuis le sol.  
 - **Haies** : Hautes de 10 pieds, elles s'étendent sur 100 pieds chacune dans un sens avant de toues les deux partir en direction du Nord.  
   - Si le groupe suit l'une ou autre haie, il finira par se retrouver à nouveau devant le portail. Si le groupe essaie de revenir sur ses pas, le portail réapparaitra presque immédiatement. Ceci est un effet de la malédiction d'Isobel.  
-  - Grimper au sommet des haies permettra de découvrir le manoir au Nord ([3a. Entrée](https://cairnrpg.com/adventures/first-party/cas-4/#3a-entry)), ainsi qu'un batiment incendié à l'Ouest ([2. Quartiers des domestiques](https://cairnrpg.com/adventures/first-party/cas-4/#2-servants-quarters)).  
+  - Grimper au sommet des haies permettra de découvrir le manoir au Nord ([3a. Entrée](#3a-entrée)), ainsi qu'un bâtiment brûlé à l'Ouest ([2. Logement des domestiques](#logement-des-domestiques)).  
 - **Brume** : Une trainée file à travers le portail au Nord, puis se sépare à l'Ouest.  
-  - Un large verrou rouillé repose près du portail, dissimulé par la brume. Une clé rouge se trouve encore dans la serrure. Si la clé est retirée, elle se transforme en une flaque de liquide devenu inutile (voir Sirop de Clé dans [6. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop)).
+  - Un grand verrou rouillé repose près du portail, dissimulé par la brume. Une clé rouge se trouve encore dans la serrure. Si la clé est retirée, elle fond en une flaque devenu inutile (voir Sirop de Clé dans [6. Workshop](https://cairnrpg.com/adventures/first-party/cas-4/#6-workshop)).
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/gate.webp)
 
-#### 2. Quartiers des domestiques
+#### 2. Logement des domestiques
 
 Un petit **bâtiment** en ruines fait de bois ternis et de pierre. Le bout d'un **poêle** en fer dépasse des **décombres**. Un **chemin** étroit part du bâtiment vers le Nord.
 
