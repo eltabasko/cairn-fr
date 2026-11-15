@@ -16,7 +16,7 @@ L'aventure qui suit est également disponible (VO) :
 - Au format [PDF](https://cairnpress.itch.io/the-forgetting-of-lockwood-manor)
 
 
-**Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Mise en page par Adam Hensley. Édité par Yossi Krausz. Édition développementale par Derek B.
+**Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Mise en page par Adam Hensley. Édité par Yossi Krausz. Édition développementale par Derek B.  
 Traduction entamée Nov. 2026 par Tabasko.
 
 Publié par Cairn Press en Octobre 2026.
@@ -45,7 +45,7 @@ Une assemblée de dames et de seigneurs, propriétaires terriens et fortunés. R
 
 Quelques mois à peine après son arrivée au manoir, Marius entama une liaison avec une domestique, Isobel. Jeune et inexpérimentée, elle tomba amoureuse de Marius et menaça de révéler leur relation à sa femme. Marius, craignant de perdre son rang familial, assassina Isobel et enterra son corps dans un bosquet voisin (voir [11.Clairière](#11-clairière)). Ce que Marius ne réalisa pas était que la jeune Isobel était une Demi-Sorcière dont l'esprit maudit la famille Lockwood et ses descendants, contaminant leur approvisionnement en eau ([9. Puits](#9-puits)) avec le [Mal Bleu](#mal-bleu).
 
-Peu après, Luciana commença à montrer les signes d'une infection, son corps s'atrophiant lentement en un amalgame de plante et de femmes. À mesure que son état empirait, Marius se retira des élites de la société, devenant de jour en jour plus reclus et paranoïaque, allant jusqu’à installer des miroirs divinatoires pour espionner le personnel de maison. Il finit par isoler le domaine du monde extérieur et licencia le reste du personnel. Puis il enferma Luciana dans leur chambre et interdit tout visite.
+Peu après, Luciana commença à montrer les signes d'une infection, son corps s'atrophiant lentement en un amalgame de plante et d'humain. À mesure que l'état de sa femme empirait, Marius se retira des élites de la société, devenant chaque jour plus cloîtré et paranoïaque, allant jusqu’à installer des miroirs divinatoires pour espionner le personnel de maison. Il finit par isoler le domaine du monde extérieur et licencia le reste du personnel. Il enferma ensuite Luciana dans leur chambre et interdit tout visite.
 
 Marius se figura tôt ou tard que pour créer un remède il lui faudrait des échantillons d'un proche en bonne santé — Anna. Pour assurer sa sécurité, Luciana ordonna à sa fille de s'enfuir et de boire une fiole d'Ichor du Néant ([6. Laboratoire](#6-laboratoire)), ce qui effacerait tout souvenir d'elle dans le monde. Aidée par [Mora la Cauchemora](#mora-la-cauchemora), Anna prit la fuite jusqu'à la Forêt, ne buvant la potion que lorsqu'elle se trouva suffisamment loin de son père.
 
@@ -87,7 +87,7 @@ Répandue par Marius, surtout si il est blessé. Endommager la mousse l’attire
 
 ### Mal Bleu
 
-Une maladie virale qui se propage par les gouttelettes d'eau ou au contact de sang contaminé. Les symptômes commencent par l’expectoration d’une mousse bleuâtre chez les individus infectés ; ces derniers finissent par mourir d’asphyxie au bout d’un mois environ. Le remède est détaillé dans le journal de Marius ([6. Laboratoire](#6-laboratoire)), mais peut être seulement implanté par un.e Greenwise ou un.e herboriste. Un parent du patient, en bonne santé, est aussi requis pour que le traitement fonctionne. Si l'esprit d'Isobel est mis au repos, la malédiction prendra fin et les victimes encore vivantes seront épargnées.
+Une maladie virale qui se propage par les gouttelettes d'eau ou au contact de sang contaminé. Les symptômes commencent par l’expectoration d’une mousse bleuâtre chez les individus infectés ; ces derniers finissent par mourir d’asphyxie au bout d’un mois environ. Le remède est détaillé dans le journal de Marius ([6. Laboratoire](#6-laboratoire)), mais peut être seulement implanté par un.e Greenwise ou un.e herboriste. Un parent du patient, sain, est aussi requis pour que le traitement fonctionne. Si l'esprit d'Isobel est mis au repos, la malédiction prendra fin et les victimes encore vivantes seront épargnées.
 
 ![Important Information](https://cairnrpg.com/adventures/first-party/img/cas-4/important-info.webp)
 
@@ -266,7 +266,7 @@ Du côté Ouest se trouve un grand **buffet** pourvu de 30 petits tiroirs. Un lo
 
 - **Buffet** : Chaque tiroir contient un échantillon d'herbe ou de plante, et prend un tour pour être examiné (voir le tableau plus bas). Seul.e un.e experte en botanique pourrait tout identifier. Pour trouver une plante spécifique, lancer un Dé de Destin!  
 - **Établi** : Surmonté d’une cuve et d’un ensemble de tubes, ainsi que d’un carnet de notes.  
-  - **Carnet** : Rempli d’une écriture difficile à lire et d’un jargon botanique précis. Décrit les recherches d'un m. Lockwood, essayant de trouver un remède à la maladie de sa femme (le “Mal Bleu”). La suite du texte détaille un traitement définitif que tout Greenwise peut mettre en œuvre, à condition qu’un.e parent.e en bonne santé de la personne infectée soit disposé.e. Vers la fin on distingue une phrase tout à fait lisible: “Commence les essais sur Anna demain, par précaution. Le traitement est enfin à portée de main!” Un appendice écrit au dos du journal décrit le fonctionnement de chaque potion posée au-dessus de la cuve, mais seulement leurs effets. Aucune couleur n’est indiquée.  
+  - **Carnet** : Rempli d’une écriture difficile à lire et d’un jargon botanique précis. Décrit les recherches d'un m. Lockwood, essayant de trouver un remède à la maladie de sa femme (le “Mal Bleu”). La suite du texte détaille un traitement définitif que tout Greenwise peut mettre en œuvre, à condition qu’un parent en bonne santé de la personne infectée soit disposé.e. Vers la fin on distingue une phrase tout à fait lisible: “Commence les essais sur Anna demain, par précaution. Le traitement est enfin à portée de main!” Un appendice écrit au dos du journal décrit le fonctionnement de chaque potion posée au-dessus de la cuve, mais seulement leurs effets. Aucune couleur n’est indiquée.  
 - **Cuve** : Vide. Au-dessus se trouve un support avec quatre flacons contenant des liquides de couleurs variées.  
 - **Rouge** : Sirop de Clé. Verser dans n'importe quelle serrure; une clé à usage unique se formera dedans. 3 utilisations.  
 - **Noire** : Ichor du Néant. Buvez et tous ceux qui vous connaissaient vous oublieront pour toujours et ignoreront toute référence à votre personne, parlée ou écrite. 1 utilisation.  
