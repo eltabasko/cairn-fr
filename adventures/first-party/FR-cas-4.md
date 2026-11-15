@@ -1,4 +1,5 @@
 [WIP]
+
 <!-- NOTES
 Moss -> lichen bleu?
 -->
@@ -16,7 +17,7 @@ L'aventure qui suit est également disponible (VO) :
 - Au format [PDF](https://cairnpress.itch.io/the-forgetting-of-lockwood-manor)
 
 
-**Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Mise en page par Adam Hensley. Édité par Yossi Krausz. Édition développementale par Derek B.  
+**Crédits:** Écrit par Yochai Gal. Illustré par Robbi Burns. Mise en page par Adam Hensley. Édité par Yossi Krausz. Édition développementale par Derek B. <br>
 Traduction entamée Nov. 2026 par Tabasko.
 
 Publié par Cairn Press en Octobre 2026.
@@ -101,7 +102,7 @@ L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle n
 
 ### Mossling
 
-3 HP, 5 FOR, 14 DEX, 12 VOL, spores toxiques (d6, explosif)
+*3 HP, 5 FOR, 14 DEX, 12 VOL, spores toxiques (d6, explosif)*
 
 - Des excroissances bipèdes et verdâtres, issues d’expériences diverses. Intelligentes.  
 - Sujets au Mal Bleu, savent qu'il faut éviter la mousse bleue.  
@@ -109,7 +110,7 @@ L’esprit d’Isobel hante les abords du manoir, déchainé et agressif. Elle n
 
 ### Mossling Infecté
 
-1 HP, 2 FOR, 16 DEX, 4 VOL, spores infectés (d10, explosif)
+*1 HP, 2 FOR, 16 DEX, 4 VOL, spores infectés (d10, explosif)*
 
 - Des Mosslings infectés par le [Mal Bleu](#mal-bleu).  
 - **Critical Damage** : Les spores creusent dans la peau exposée ([2-in-6] chance que la victime contracte le Mal Bleu).
@@ -120,7 +121,7 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 
 ### Masse Titubante
 
-**9 HP, 15 FOR, 6 DEX, 12 VOL, Lianes(d8+d8)**
+*9 HP, 15 FOR, 6 DEX, 12 VOL, Lianes(d8+d8)*
 
 - Si vaincu, il se reforme au bout de [1d4] heures. Seule la Fiole Violette dans le [6. Laboratoire](#6-laboratoire) peut définitivement le tuer.  
 - Les dégâts d'armes non-tranchantes sont Atténués.  
@@ -142,7 +143,7 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 | 3 | Un intense parfum floral vous arrive aux narines depuis l’Ouest. L’odeur s’accompagne d’une pointe d'acidité, suivie de nausées. |
 | 4 | Un vent hurlant balaie les lieux. Le manoir gémit et bouge en réaction. |
 
-> Simple Map Gray [en cours de traduction]
+> Carte Simple fond gris [en cours de traduction]
 <!--
 {::nomarkdown}
 <img
@@ -225,24 +226,24 @@ Un **manoir** en disposition asymétrique à 2 étages abrité par une toiture e
 Une petite salle d’attente richement décorée avec un **canapé** poussé contre le mur Ouest. Un unique **miroir** est installé sur le mur Est. Au Nord, un petit couloir mène à une pièce ouverte.
 
 - **Canapé** : Le cuir est craquelé. Une pâle mousse bleutée pousse à travers les trous.  
-  - **Mousse** : Créée par Marius lorsqu'il est allé à la [4. Salle de bal](#4-salle-de-bal).  
+- **Mousse** : Créée par Marius lorsqu'il est allé à la [4. Salle de bal](#4-salle-de-bal).  
 - **Miroir** : Une petite fissure dans le coin altère le verre . La brèche qu’elle crée luit faiblement, mais seulement dans l’obscurité totale.
 
 ![](https://cairnrpg.com/adventures/first-party/img/cas-4/entry.webp)
 
 #### 4. Salle de bal
 
-Une somptueuse salle de balle faisant aussi office de salle d'audience, dotée d'un sol en **mosaique**. D'épaisses **lianes** bleues pendent d'un lustre suspendu au centre de la pièce. De la **mousse** bleue pousse entre les carreaux près de la sortie Ouest. Du côté Est un petit escalier mène à l'étage.
+Une somptueuse salle de balle faisant aussi office de salle d'audience, dotée d'un sol en **mosaïque**. D'épaisses **lianes** bleues pendent d'un lustre suspendu au centre de la pièce. De la **mousse** bleue pousse entre les carreaux près de la sortie Ouest. Du côté Est un petit escalier mène à l'étage.
 
-- **Mosaique** : Représente une foule nombreuse regardant une danseuse (Luciana) au bras tendu. Un véritable diamant se trouve sur l'un de ses doigts. Il faudra un tour pour le déloger, il vaut 250 po.  
-- **Vines** : un Creeper dissimulé. Attaque toute créature traversant la pièce (jet de sauvegarde de DEX pour l'éviter).  
+- **Mosaîque** : Représente une foule nombreuse regardant une danseuse (Luciana) au bras tendu. Un véritable diamant se trouve sur l'un de ses doigts. Il faudra un tour pour le déloger, il vaut 250 po.  
+- **Lianes** : un Creeper déguisé. Attaque toute créature traversant la pièce (jet de sauvegarde de DEX pour l'éviter).  
 - **Mousse** : Vaguement en forme de pas. Produit par Marius lorsqu'il s'est déplacé vers la [5. Cuisine](#5-cuisine)).
 
-![](https://cairnrpg.com/adventures/first-party/img/cas-4/salle-de-bal.webp)
+![](https://cairnrpg.com/adventures/first-party/img/cas-4/ballroom.webp)
 
 ##### Creeper
 
-**4 HP, 12 FOR, 13 DEX, 5 VOL, Lianes-tentacules (d6, explosif)**
+*4 HP, 12 FOR, 13 DEX, 5 VOL, Lianes-tentacules (d6, explosif)*
 
 - Inerte jusqu'à ce qu'un créature s'en approches. Déteste le feu.  
 - **Drainage** : Une fois attrapée, la victime perd 4 FOR par round jusqu'à être vidée de son sang. Le Creeper est sans défense lorsqu'il se nourrit.
@@ -285,7 +286,7 @@ Du côté Ouest se trouve un grand **buffet** pourvu de 30 petits tiroirs. Un lo
 | 6 | Digitale Séchée | Comprendre, pendant une heure, les grognements et pépiements du Bois. Doit être fumée (provoque l'Épuisement). 1 utilisation. |
 
 
-![](https://cairnrpg.com/adventures/first-party/img/cas-4/laboratoire.webp)
+![](https://cairnrpg.com/adventures/first-party/img/cas-4/workshop.webp)
 
 #### 7. Serre
 
@@ -346,7 +347,7 @@ Un petit **Espace** dégagé parmi les arbres. Au centre se trouve un grand mont
 
 Une immense table en bois entourée de chaises occupe la pièce. Six petites **sculptures** sont disposées dans des alcôves le long du mur Est. Deux uniques miroirs sont installés sur les murs Est et Ouest. Un **chandelier** vide descend du plafond. Des **baies** vitrées font face au Sud. Un escalier descend vers l'Ouest.
 
-- **Sculptures** : Des bustes de femmes et d'hommes de la lignée des Lockwood. Seuls 2 ne sont pas brisés. L’un des bustes qui ont survécu représente une femme à l’air sérieux, ses cheveux arrivant aux épaules. L’autre est celle d’une jeune fille aux pommettes saillantes et aux cheveux longs. Les deux sont *encombrants* et n'ont de valeur que si vendus intacts (100po chacun).  
+- **Sculptures** : Des bustes de femmes et d'hommes de la lignée des Lockwood. Seuls deux ne sont pas brisés. L’un des bustes ayant survécu représente une femme à l’air sérieux, ses cheveux arrivant aux épaules. L’autre est celle d’une jeune fille aux pommettes saillantes et aux cheveux longs. Les deux sont *encombrants* et n'ont de valeur que si vendus intacts (100po chacun).  
 - **Chandelier** : n'est pas couvert de lianes et peut être rallumé.  
 - **Baies** : Complètement couvertes par des vignes et du feuillage.
 
@@ -400,7 +401,7 @@ Sa porte est peinte en bleu. Un simple **lit** est disposé au centre de la piè
 
 #### 16. Chambre Jaune
 
-Sa porte est peinte en jaune. Un **lit** sans draps se trouve près d'une **fenêtre** ouverte côté Ouest, à proximité repose une **maison de poupée** sur une table. Des jouets d’enfants, marqués par les intempéries, sont éparpillés sur le **plancher** en bois.
+Sa porte est peinte en jaune. Un **lit** sans draps se trouve près d'une **fenêtre** ouverte côté Ouest, une **maison de poupée** se trouve à proximité sur une table. Des jouets d’enfant, marqués par les intempéries, sont éparpillés sur le **plancher** en bois.
 
 - **Lit** : Les draps sont manquants.  
   - Un petit carnet est coincé entre le matelas et les lattes. Écrit par une fille de 13 ans, le journal relate le déménagement de la famille dans le manoir ainsi que les premiers stades de la maladie de sa mère. Il se termine par des remarques sur le comportement étrange de son père. La dernière page dit: "*J'ai peur. Mère va m'aider à partir bientôt. Elle me dit de courir aussi loin que je le peux, et une fois libre, de boire le sirop noir pris dans le laboratoire de Père*”. La page est signée : *Annafranax Milo Lockwood*.  
@@ -432,7 +433,7 @@ Des **étagères** vermoulues forment des sentiers sinueux à travers la pièce.
 
 #### 18. Chambre Principale
 
-Un lit occupe le centre de la pièce, une **forme ** humanoïde enfoncée en son milieu. À l'Est un petit **bureau** et une chaise sont placés sous une fenêtre dont les rideaux sont tirés. Un long miroir est accroché au mur Sud, et une étagère suspendue est chargée d’effets personnels.
+Un lit occupe le centre de la pièce, une **forme ** humanoïde y est enfoncée en son milieu. À l'Est un petit **bureau** et une chaise sont placés sous une fenêtre dont les rideaux sont tirés. Un long miroir est accroché au mur Sud, et une étagère suspendue est chargée d’effets personnels.
 
 - **Forme** : Le cadavre desséché d'une femme repose sur le lit,  un morceau de verre dans une main.  
   - Cette femme est Luciana. Elle s’est ouvert les poignets avec un éclat de verre, afin d’échapper à la souffrance d’oublier sa propre fille sous l’effet de l’Ichor du Néant. ([6. Laboratoire](#6-laboratoire)). Son cadavre est un amalgame de chair en décomposition et de résidus végétaux.  
@@ -440,7 +441,7 @@ Un lit occupe le centre de la pièce, une **forme ** humanoïde enfoncée en son
   - Un collier ornementé estimé à 532po.  
 - **Fenêtre** : Tirer les rideaux dévoile une vue sur les haies orientales, entourées par la forêt. Le sol se trouve deux étages plus bas, sans autre protection qu’une végétation épineuse et foisonnante. 
 - **Miroir** : Celui-ci ne reflète rien. Une partie du verre semble manquer.  
-  - Si le morceau de verre tenu par Luciana est replacé sur le miroir, i lse réparera et affichera une vue en direct de n’importe quelle pièce du manoir, même si cette dernière se trouve dans une complète obscurité.  
+  - Si le morceau de verre tenu par Luciana est replacé sur le miroir, il se réparera et affichera une vue en direct de n’importe quelle pièce du manoir, même si cette dernière se trouve dans une complète obscurité.  
 - **Étagère** : Essentiellement des petits objets sans valeur, ainsi qu’une illustration de Marius.  
   - Sous l'étagère se trouve un bouton qui active le passage secret vers la [15. Chambre Bleue](#15-chambre-bleue), qui s'ouvre en pivotant.  
   - Anna se servait de ce passage pour rendre visite à sa mère après que Marius eut enfermé Luciana.
