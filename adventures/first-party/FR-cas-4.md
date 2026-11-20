@@ -481,10 +481,10 @@ Simple Map [en cours de traduction]
 
 | d4 | Rencontres |  |
 | :---- | :---- | :---- |
-| 1 | Marius | **À l'intérieur** : Des pas lourds font trembler le manoir. Dehors : Une silhouette **sombre** passe en titubant devant une fenêtre ouverte. |
-| 2 | Mossling | A faint giggle is heard from deep in the dark, low to the ground. Something moves in shadow. |
-| 3 | Mossling Infecté | Nearby plant life shudders ever so slightly. There are streaks of blue shimmering through the green. |
-| 4 | Isobel | A sudden drop in temperature followed by an anguished sigh from somewhere nearby. |
+| 1 | Marius | **À l'intérieur** : Une démarche lourde fait trembler le manoir. Dehors : Une silhouette **sombre** passe en titubant devant une fenêtre ouverte. |
+| 2 | Mossling | Un ricanement étouffé se fait entendre, provenant des profondeurs de l’obscurité, au ras du sol. Quelque chose bouge dans l’ombre. |
+| 3 | Mossling Infecté | La végétation alentour frissonne très légèrement. Des éclats bleus scintillent à travers la verdure. |
+| 4 | Isobel | Une chute soudaine de la température, suivie d’un soupir angoissé émis aux alentours. |
 
 # 
 
