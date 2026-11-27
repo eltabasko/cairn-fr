@@ -138,7 +138,7 @@ Marius rôde toujours dans le manoir en Masse Titubante, répandant de la mousse
 
 | d4 | Environnement |
 | :---- | :---- |
-| 1 | Le plancher est instable et menace de s'effondrer. Réussissez un jet de sauvegarde DEX ou prenez d4 dégâts de FOR du bois brisé. |
+| 1 | Le plancher est instable et menace de s'effondrer. Réussissez un jet de sauvegarde DEX ou prenez d4 dégâts de FOR des chutes de bois. |
 | 2 | L’humidité s'écoule du plafond, éteignant les flammes nues. |
 | 3 | Un intense parfum floral vous arrive aux narines depuis l’Ouest. L’odeur s’accompagne d’une pointe d'acidité, suivie de nausées. |
 | 4 | Un vent hurlant balaie les lieux. Le manoir gémit et bouge en réaction. |
@@ -490,7 +490,7 @@ Simple Map [en cours de traduction]
 
 | d4 | Environnement |
 | :---- | :---- |
-| 1 | Le plancher est instable et menace de s'effondre. Réussissez un jet de sauvegarde DEX ou prenez d4 dégâts de FOR des chutes de bois. |
+| 1 | Le plancher est instable et menace de s'effondrer. Réussissez un jet de sauvegarde DEX ou prenez d4 dégâts de FOR des chutes de bois. |
 | 2 | L’humidité du plafond goutte, éteignant les flammes nues. |
 | 3 | Un parfum floral intense vous parvient depuis l’Ouest. L’odeur s’accompagne d’une pointe d'acidité, qui provoque des nausées. |
 | 4 | Un vent hurlant balaie les lieux. Le manoir gémit et bouge en réaction. |
@@ -511,4 +511,4 @@ ISBN: 978-1-971897-22-6
 
 ---
 
-[Back to top](#top)
+[Retour en haut](#top)
